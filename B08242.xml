@@ -1,0 +1,569 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saints duty discoursed, from 2 Pet. 3. 18. and the saints dignity handled, from Eph. chap. 1. v. 7. with directions to both, delivered from a chatecheticall dialogue by him that was, and is ...</title>
+            <author>R. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08242</idno>
+            <idno type="STC">Wing A27B</idno>
+            <idno type="STC">ESTC R176488</idno>
+            <idno type="EEBO-CITATION">64550731</idno>
+            <idno type="OCLC">ocm 64550731</idno>
+            <idno type="VID">184281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184281)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2857:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Saints duty discoursed, from 2 Pet. 3. 18. and the saints dignity handled, from Eph. chap. 1. v. 7. with directions to both, delivered from a chatecheticall dialogue by him that was, and is ...</title>
+                  <author>R. A.</author>
+               </titleStmt>
+               <extent>[8], 69 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Franckling and are to be sold at his shop near the Signe of the George in Norwhich,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to R. A.  Cf. Wing (2nd ed.).</note>
+                  <note>Imperfect: pages stained with some loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+                  <note>Bound and filmed with Wing A27aA and Wing C5316A: A plaine and easie catechisme : wherein the grounds and principles of Christian religion are briefly taught and likewise proved by scripture published for the benefit of all / by R.A., London : Printed for William Franckling and are to be sold at his Shop near the Signe of the George in Norwich, 1649 -- Faith &amp; experience, or, A short narration of the holy life and death of Mary Simpson ... / by John Collings, London : Printed for Richard Tomlins and are to be sold at his house at the Signe of the Sun and Bible in Pye-Corner, 1649.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N. T. --  2 Peter III, 18 --  Sermons.</term>
+               <term>Bible. --  O. T. --  Ephesians I, 7 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184281:1"/>
+            <pb facs="tcp:184281:1"/>
+            <p>SAINTS Duty diſcourſed, from 2 <hi>Pet.</hi> 3.18.</p>
+            <p>
+               <hi>And the</hi> SAINTS Dignity handled, from <hi>Eph. chap.</hi> 1. <hi>v.</hi> 7.</p>
+            <p>With Directions to both, deli<g ref="char:EOLhyphen"/>vered from a <hi>Chatecheticall,</hi> DIALOGUE.</p>
+            <p>By him that was, and is,
+<list>
+                  <item>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <list>
+                        <item>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </item>
+                        <item>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Luke 3.10.</hi>
+               </bibl>
+               <p>And what ſhall we doe?</p>
+               <bibl>
+                  <hi>12.</hi>
+               </bibl>
+               <p>What ſhall we doe?</p>
+               <bibl>
+                  <hi>14.</hi>
+               </bibl>
+               <p>And what ſhall we doe?</p>
+               <bibl>
+                  <hi>Mark. 13.37.</hi>
+               </bibl>
+               <p>What I ſay to you, I ſay to all, Watch.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Franckling,</hi> and are to be ſold at his Shop near the Signe of the <hi>George</hi> in <hi>Norwich.</hi> 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:184281:2" rendition="simple:additions"/>
+            <pb facs="tcp:184281:2"/>
+            <head>TO The mirrour of her age, and example of her yeares, M<hi rend="sup">rs</hi> PHILIP HOBART, (Daughter to the Right Ho<g ref="char:EOLhyphen"/>nourable the Lady FRAN<g ref="char:EOLhyphen"/>CES HOBART) the Au<g ref="char:EOLhyphen"/>thor in all humility and ſincerity wiſheth the growth of grace in this life, and glory of grace in the life which is to come.</head>
+            <opener>
+               <salute>Truely Vertuous,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">N</seg>One that know you but know your worth is ſo farre above a Comple<g ref="char:EOLhyphen"/>mentall flatterie, that who har<g ref="char:EOLhyphen"/>bors a thought thereto, be wraies himſelfe a ſycophantizing Pa<g ref="char:EOLhyphen"/>raſite. None that know me, but know
+<pb facs="tcp:184281:3"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is as farre be<g ref="char:EOLhyphen"/>neath me, as a Complement is above me: In downe right fide<g ref="char:EOLhyphen"/>lity, did not your ample and ad<g ref="char:EOLhyphen"/>mired teſtimony of good ſeed, ſowne in good ground, diſcover it ſelfe, the world ſhould never have been intelligenced thus, of your continuall practice, to un<g ref="char:EOLhyphen"/>derſtand and record the prin<g ref="char:EOLhyphen"/>ciples of Religion: your atten<g ref="char:EOLhyphen"/>tiveneſse at, your delightfulneſſe in, ſacred Ordinances; a ſhame, as patterne to riper yeares: May I adde, tis pitty, but all incouragement to a further pro<g ref="char:EOLhyphen"/>greſſe, ſhould raiſe it ſelfe, to ſteele your reſolution, in imita<g ref="char:EOLhyphen"/>ting and exceeding Honourable precedency: That the laſt may
+<pb facs="tcp:184281:3"/>
+be the beſt gener<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m<g ref="char:EOLhyphen"/>ber (hopefull off-ſpring) what advantages you have above mil<g ref="char:EOLhyphen"/>lions of Families in the conti<g ref="char:EOLhyphen"/>nuall dropping of Goſpell-Or<g ref="char:EOLhyphen"/>dinances; if your meaſure ſur<g ref="char:EOLhyphen"/>mount not other, you come ſhort; if you grow not in grace, as in yeares, you frustrate expecta<g ref="char:EOLhyphen"/>tion. I have over-boldened my ſelfe to preſent this to your eye, which was tendred to your eare, and taken by your Pen; but your gracious and noble ſpirit can ac<g ref="char:EOLhyphen"/>cept the deſires, and connive at the failings of them that wiſh you well in the Lord. I muſt tell the world, that among many whom God hath bleſſed (ſince your Lady mothers zealous piety
+<pb facs="tcp:184281:4"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> weekly Lecture in her private Chappell) to the rejoycing of divers precious ſoules, the faire hopes of your imitable graces luſtre you farre and nigh, renowned. Wiſedome with an inheritance is good, ſpake that wiſe, and rich man, and King: your inheritance is faire in reſpect of the nether, let your continuall growth in the grace of Jeſus Chriſt ſpeak you ſtill wonderfull in regard of the upper ſprings. Proceed (gracious ſtem) to floriſh, ſo as long you may continue an ex<g ref="char:EOLhyphen"/>ample and honour to your Fa<g ref="char:EOLhyphen"/>mily, an encouragement to all that feare God, a preſident to all young noble plants, and an
+<pb facs="tcp:184281:4"/>
+ornament to the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Chriſt.</p>
+            <p>For this purpoſe (pardon the preſumption) I have dared to Dedicate to your worthineſſe, the Saints practice, with their pri<g ref="char:EOLhyphen"/>vilege, and path-way to both; the two firſt diſcourſed in your Chapley-field Oratory, the last to my dearely beloved Pariſh.</p>
+            <p>May the Lord reap glory, you, or for your ſake any, bene<g ref="char:EOLhyphen"/>fit; Who can expreſſe my joy or thanks? Thus bowing the knee to the Father of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, making continuall mention of you in my prayers day and night without ceaſing, that the Lord would bestow up<g ref="char:EOLhyphen"/>on you length of dayes, with
+<pb facs="tcp:184281:5"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, perfecting the good work he hath hopefully be<g ref="char:EOLhyphen"/>gun in you, to his eternall glory, and your everlaſting ſalvation by Jeſus Chriſt, to whoſe in<g ref="char:EOLhyphen"/>terceſsion and acceptance I commend your ſoule and body: resting,</p>
+            <closer>
+               <signed>Your humble Orator at the Throne of Grace, <hi>R. A.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184281:5"/>
+            <head>The SAINTS duty diſcourſed.</head>
+            <div type="treatise">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>2 PET.</hi> Chap. <hi>3.</hi> ver. <hi>18.</hi>
+                     </bibl>
+                     <p>But grow in grace, and in the knowledge of our Lord and Saviour JESUS CHRIST.</p>
+                  </q>
+               </epigraph>
+               <p>
+                  <seg rend="decorInit">T</seg>He Penman of this Epiſtle is ſpecified in the firſt Chap<g ref="char:EOLhyphen"/>ter and firſt verſe, thus: <hi>Peter a ſervant and an A<g ref="char:EOLhyphen"/>poſtle of Jeſus Chriſt.</hi> The perſons to whom this Epiſtle was de<g ref="char:EOLhyphen"/>dicated, to ſuch as from free grace had obtained like precious faith with them that were of the Privy Councell: the Apoſtles, by the righteouſneſſe of our God and Saviour Jeſus Chriſt, verſe the firſt, even to ſuch contemned, con<g ref="char:EOLhyphen"/>demned, poore, ſcattered ones, <hi>through
+<pb n="2" facs="tcp:184281:6"/>
+Pontus, Galatia, Cappadocia, Aſia, By<g ref="char:EOLhyphen"/>thinia,</hi> as in<note place="margin">1 Ep. ch. v. 1.</note> The ſcope, is to fore<g ref="char:EOLhyphen"/>warne them of dangerous dayes and perillous times approaching, in which many will endeavour to pervert their life, and ſubvert their faith, even to the making ſhipwracke thereof; whereby they might prove as ignominious to themſelves, ſo inglorious to the Goſ<g ref="char:EOLhyphen"/>pell of Jeſus Chriſt; he therefore in the precedent, and in this preſent Chapter reminds them of divers and dangerous poſitions and practices of men, that forewarned, forearmed; and walke as Pilgrims, and ſtrangers warring againſt whatever will endanger their precious ſoules, holy faith, or godly life, not knowing when the day of the Lord comes nor with what ſpeed, nor dread; by a convincing interrogatory he winds up their faith, to an exact pitch of the power of godlineſſe, and holy conver<g ref="char:EOLhyphen"/>ſation, verſe 11. ſeconded by variety of arguments, <hi>ver.</hi> 14, 15. that they may keep themſelves from being plucked away with the errour of the wicked; either <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which to prevent, he preſcribes my Text as an Antidote. As the laſt words uſually beſt
+<pb n="3" facs="tcp:184281:6"/>
+remembred; So, <hi>But grow.</hi> The words containe a needfull direction for all Chriſtians ſcattered to and fro through<g ref="char:EOLhyphen"/>out the face of the whole Earth. If any aske the queſtion, what is required in the Text? 'tis anſwered, <hi>To grow;</hi> In what? <hi>In grace and knowledge;</hi> Of whom? <hi>Our Lord and Saviour Jeſus Chriſt;</hi> In what order? here the method, <hi>In grace and knowledge:</hi> from which might be raiſed theſe three obſerva<g ref="char:EOLhyphen"/>tions:</p>
+               <p>Firſt, 'tis our duty to <hi>grow in grace.</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obſer. </seg>1</label>
+               </p>
+               <p>Secondly, 'tis our duty to grow in <label type="milestone">
+                     <seg type="milestoneunit">Obſer. </seg>2</label> 
+                  <hi>knowledge.</hi>
+               </p>
+               <p>Thirdly, 'tis our duty to <hi>grow in grace <label type="milestone">
+                        <seg type="milestoneunit">Obſer. </seg>3</label> and knowledge.</hi>
+               </p>
+               <p>I ſhall inſiſt on the firſt only.</p>
+               <p>
+                  <hi>'Tis the duty of Chriſtians to grow in grace.</hi> In the handling of which,<note place="margin">
+                     <hi>Doct.</hi> 1.</note> I ſhall according to my uſuall method, Firſt open the termes of the Doctrine, <hi>grow</hi> and <hi>grace;</hi> Secondly, prove the point by the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of Scripture, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of rea<g ref="char:EOLhyphen"/>ſon; and Thirdly, make the uſe and ap<g ref="char:EOLhyphen"/>plication; and the ſtrength and bleſſing of the Lord be in and on us all.</p>
+               <p>To <hi>grow,</hi> is a metaphoricall expreſ<g ref="char:EOLhyphen"/>ſion, and may fetch its illuſtration from
+<pb n="4" facs="tcp:184281:7"/>
+Plant, Trees, Flowers, Corn, &amp;c. which from ſmall ſpires, ſprigs, ſeed, augment, ſpread, enlarge themſelves, ſo may be ſaid to increaſe, grow; this the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſignifies: As theſe grow deeper, bigger, ſtronger, higher; ſo muſt a Chriſtian ſprout, flouriſh, waxing ſtron<g ref="char:EOLhyphen"/>ger and ſtronger in the ſtrength of the Lord, and power of his might: Or to <hi>grow;</hi> may ſend forth an underſtanding to us of the duty, by obſerving of our naturall or civill growth; as we deſire to manifeſt our ſelves by our long tra<g ref="char:EOLhyphen"/>ding, to be richer, wiſer, better: So by our longer continuance under the brea<g ref="char:EOLhyphen"/>things of the ſpirit in Goſpell-diſpenſa<g ref="char:EOLhyphen"/>tions, ſhew ye your ſelves to have re<g ref="char:EOLhyphen"/>ceived an increaſe of more light, life, zeale, love, knowledge, &amp;c. this is to <hi>grow in grace.</hi> I conceive the grace in the Text, is not that grace of graces, free and perfect, diſplaid upon a ſoule by the infinite riches of wonderfull mercy, that admirable free, full grace of Juſtification. But by <hi>grace</hi> here, the graces of Gods holy Spirit, through the Word, with power and life, con<g ref="char:EOLhyphen"/>veighed into the beleevers ſoule, by the Holy Ghoſt; which may therefore fitly
+<pb n="5" facs="tcp:184281:7"/>
+be phraſed, the <hi>fruit of the ſpirit,</hi>
+                  <note n="b" place="margin">Gal. 5.22, 23.</note> which are thus in Apoſtolicall account enumerated; <hi>Love, Joy, Peace, long-ſuffering, gentleneſſe, goodneſſe, faith, meekneſſe, temperance.</hi> Theſe are gra<g ref="char:EOLhyphen"/>ces of Gods Spirit, and this <hi>grace</hi> in the Text includes the graces of this kind, in which we muſt endeavour to grow; to which <hi>knowledge</hi> is added in the verſe, even that diſtinct under<g ref="char:EOLhyphen"/>ſtanding of divine truths revealed in the Word, concerning the knowing of God and Chriſt, whom to know aright is not leſſe then life eternall.<note place="margin">John 17.3.</note> The ſumme is, that little grace of Gods Spirit in thee, thou muſt be ſure to act, that it increaſe more and more: that as to men there is evident a growth in your body; ſo to God and men you may make it apparent there is an increaſe in your ſoule, in the gracious exerciſe of a conſcience and converſation void of offence before God and man. This I conceive, with ſubmiſſion to better judgements, the ſence of the terme of the Text. I proceed to the point to be proved.</p>
+               <p>
+                  <hi>'Tis a Chriſtians duty to grow in grace:</hi> which growth may have a re<g ref="char:EOLhyphen"/>ference
+<pb n="6" facs="tcp:184281:8"/>
+to the number of graces, or to the meaſure of graces; in reſpect of both, we muſt <hi>grow.</hi>
+               </p>
+               <p>This <hi>Paul</hi> adviſeth <hi>Corinth.</hi>
+                  <note n="d" place="margin">2 Cor. 18.7.</note> 
+                  <hi>Therefore (as ye abound in every thing, in faith, utterance, and knowledge, and in all diligence, and in love to us) ſee that ye abound in this grace alſo:</hi> a bundle of beautifull excellencies are here col<g ref="char:EOLhyphen"/>lected. And our Apoſtle in the firſt Chapter, the fifth, ſixth, and ſeventh verſes: <hi>And beſides this, give all dili<g ref="char:EOLhyphen"/>gence, adde to your faith vertue, and to vertue knowledge; and to knowledge, temperance; and to temperance, patience; and to patience, godlineſſe; and to god<g ref="char:EOLhyphen"/>lineſſe, brotherly kindneſſe; and to bro<g ref="char:EOLhyphen"/>therly kindneſſe, charity.</hi> An addition, increaſe and growth of graces in the number. Is not this intimated in the parabolicall Hiſtory of the Lord and his ſervants concerning the expected in<g ref="char:EOLhyphen"/>creaſe of the talents? in which the ho<g ref="char:EOLhyphen"/>nouring Encomiums, ſpeaking them good and faithfull, that increaſed and multiplyed their two to other two, their five to ten, with an <hi>euge, well done good and faithfull ſervant, thou haſt been faithfull over a few things, I will make
+<pb n="7" facs="tcp:184281:8"/>
+thee ruler over much, enter thou into thy Masters joy.</hi>
+                  <note n="e" place="margin">Mat. 25.21.</note>
+               </p>
+               <p>For the growth of the meaſure of grace; grow in it: hath not Chriſt given grace that wee ſhould grow to a higher meaſure, even to the perfecting of the Saint, and come up to the mea<g ref="char:EOLhyphen"/>ſure of the ſtature of Chriſt, the ful<g ref="char:EOLhyphen"/>neſſe of Chriſt<note n="f" place="margin">Eph. 4.13.</note> for-which <hi>Paul</hi> greatly rejoyced, hearing the faith of the <hi>Theſſalonians</hi> grew ſo exceedingly, and their charity toward each other ſo abounded<note n="g" place="margin">2 Theſ. 1.3.</note> to this <hi>Paul</hi> expects in the<note n="h" place="margin">1 Theſ. 4.1.</note> that as they had received of them that were diſpenſers of the Go<g ref="char:EOLhyphen"/>ſpels-myſterie, ſo they would walke in pleaſing God, and abound therein more and more, as in the fore-mentioned place; as man, ſo God, calls for more weight, more meaſure; to adde to the number and meaſure of grace; grow. Chriſtians had need to looke to their growth, <hi>Non eſt bonus qui non vult eſſe melior,</hi> hee that hath no care for the growth of his grace, will ſoone bring the truth of his grace into ſuſpition: by an Apoſtaticall revolt, or Cork-like levity in being removed from, or wa<g ref="char:EOLhyphen"/>vering in the firſt and beſt principles.
+<pb n="8" facs="tcp:184281:9"/>
+Need we have to grow in grace, from the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>1</label> The Lord hath more to beſtow on thee than yet appears to be in thee; what ever grace thou art enriched with, God hath more yet in the granary of his goodneſſe for a poor ſoule: Think not thy ſelfe more than a broken Ci<g ref="char:EOLhyphen"/>ſtern; plume not thy ſelfe to ſing a Re<g ref="char:EOLhyphen"/>quiem to thy ſoule, as if thou hadſt grace, holineſſe, righteouſneſſe, know<g ref="char:EOLhyphen"/>ledge enough; bee not deceived who<g ref="char:EOLhyphen"/>ever thou art, endowed with an ad<g ref="char:EOLhyphen"/>mired competency of gifts and graces, yet you need more than yet you enjoy; that great meaſure of knowledge is not the leaſt of that you are ignorant of: Should I ſay be yee warm'd and fil<g ref="char:EOLhyphen"/>led, and give not that which is need<g ref="char:EOLhyphen"/>full for the body, it would little pro<g ref="char:EOLhyphen"/>fit: ſhould I preach, <hi>grow in grace,</hi> and not tell you, God hath more for you than yet appeares in you, leſſe rea<g ref="char:EOLhyphen"/>ſon, to be up and doing. But God is an inexhauſted Fountaine, that both can and will beſtow, more upon every ſoule that truely deſires the growth of grace: Aske thy ſoule if it had not need be better ſtocked, and more ſtirre
+<pb n="9" facs="tcp:184281:9"/>
+up it ſelfe to lay hold on God, if he wil not give further ſupply of grace and knowledge: Tis my happineſſe, I know in my need how to be furniſh<g ref="char:EOLhyphen"/>ed, it ſhall bee my reaſon; Therefore Ile grow.</p>
+               <p>Therefore grow in grace: The more <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>2</label> grace the more ſtrength: The infuſion of grace puts life and energy into the ſoule, the addition of grace renewes the active faculties with greater ſtrength: that as of the heroick Cham<g ref="char:EOLhyphen"/>pions enroll'd in the eleventh Chapter of the <hi>Hebrewes,</hi> of weake (by the grace of faith) they became ſtrong, ſtrong to an unmatchable power: So by the growth of grace, the ſoule that was wont to be as water, becomes to be as ſtrong as ſteele it ſelfe; the Apoſtles witneſſing the truth of this to the world. The want of ſaving grace hinders the want of ſaving knowledge, that enlightens, emboldens: when hea<g ref="char:EOLhyphen"/>ven afforded many an advantagious opportunity to ſatisfie thy darkened judgement, doubting ſpirit, let mee appeale, if thou haſt not returned home, <hi>likewiſe,</hi> as came out: the ſad experience of our owne heart, dictates
+<pb n="10" facs="tcp:184281:10"/>
+want of <hi>grace</hi> proudly kept backe, that in many things, we remaine as new<g ref="char:EOLhyphen"/>borne Babes, poore, weake Creatures. The truth of grace (O Chriſtian) quickens, but the growth of grace ſtrengthens thy ſoul: that panoply of God makes the Saints ſtrong, the brea<g ref="char:EOLhyphen"/>thing of the ſpirit of grace makes a ſtripling more puiſſant than the <hi>Goli<g ref="char:EOLhyphen"/>ah's</hi> of the Nations. 'Tis recorded of Father <hi>Abraham,</hi> being not weake in faith, he ſtaggered not at the promiſes of God, but being ſtrong in faith, hee beleeved in hope even againſt hope<note n="i" place="margin">Rom. 4.20, 21.</note> Chriſtians meet with Principalities, Powers, and the Rulers of the dark<g ref="char:EOLhyphen"/>neſſe of this world, a terrible army; how ſhall a poore ſoule encounter with this maine body, when onely the ſtrength he hath is little more than a forlorne hope? let him ſtrengthen himſelfe with the graces of Gods Spi<g ref="char:EOLhyphen"/>rit, and hee ſhall finde a power invin<g ref="char:EOLhyphen"/>cible; none more need of ſtrength than a poore Chriſtian: The more grace the more ſtrength; Whe<g ref="char:EOLhyphen"/>ther,</p>
+               <p n="1">1. Againſt ſin, that is not ſatisfied with a being in, but would dominiere
+<pb n="11" facs="tcp:184281:10"/>
+over a Chriſtian: or what ſtrugling with ſecret corruptions, as wraſtling with too many corruptions, hard to be ſubdued, enforcing <hi>Paul</hi> to cry out<note n="k" place="margin">Rom. 7.24.</note> 
+                  <hi>Oh wretch who ſhall deliver me from this body of death?</hi> Oh, the ſobs and groanes, teares and feares of a weak Chriſtian, when corruptions be<g ref="char:EOLhyphen"/>gin to diſcover themſelves, then they in apprehenſion, the undone of all the world: <hi>Amaleck</hi> fights and ſometime prevails, the want of ſtrength foiles the ſoule, the height of grace upholds the ſoul, the more grace the more ſtrength againſt ſinne.</p>
+               <p n="2">2 Againſt ſuffering, the Church and people of God meet with oppoſition, contradiction, perſecution, who more? it was the Fathers appoint<g ref="char:EOLhyphen"/>ment, as the ſonnes prediction<note n="l" place="margin">Io. 15.16.</note> and this Apoſtles, the great Doctor of the Gentiles oft in ſacred Writ, To paſſe by bad report, hunger, nakedneſſe, pri<g ref="char:EOLhyphen"/>ſon, &amp;c. 'tis difficult, for ſome, not all. When ſtrongly growne in the grace of Chriſt, <hi>Paul</hi> can conquer, the A<g ref="char:EOLhyphen"/>poſtles with admired reſolution, daunt their enemies; when formerly all left he Lord Jeſus Chriſt, and why? they
+<pb n="12" facs="tcp:184281:11"/>
+were growne in grace, and more grace, more ſtrength againſt ſuffering.</p>
+               <p n="3">3. Againſt Temptation: our Saviour would not have taught his Diſciples to pray, <hi>Lead us not into temptation,</hi> had not he known, the devill and an evill heart, laid ſnates to tempt; which of Gods choiſeſt Jewels free? Not <hi>Abra<g ref="char:EOLhyphen"/>ham, Job, David,</hi> not Chriſt himſelf; And canſt thou expect or requeſt to be above thy Lord? Poor weak Chriſti<g ref="char:EOLhyphen"/>an, thou muſt look to be buffeted, aſ<g ref="char:EOLhyphen"/>ſaulted. Labor for more grace; ſo more able to reſiſt: for by the grace of God you may ſtand, as withſtand.</p>
+               <p n="4">4. Againſt Deſertion: The more grace the more ſtrength. Tis a conditi<g ref="char:EOLhyphen"/>on Gods people ſometimes meet with, and complaine of: A bitter expoſtula<g ref="char:EOLhyphen"/>tion, <hi>My God, my God why haſt thou forſaken?</hi> Faith and feare in a double combate: Whither in reference to <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> the Type, or the Son of <hi>David</hi> the Antitype, The Lord Chriſt: And may not your full tide ebbe? Your bright moon ecclipſe? Your fair day cloud? and your clear Sun miſten? Oh know ye that are dandled in the armes of an everlaſting God may yet not be
+<pb n="13" facs="tcp:184281:11"/>
+ever danced in Gods everlaſting arms? He may ſhoot bitter Arrows againſt you, and his everloving ſmile may frown it ſelf to a momentary indigna<g ref="char:EOLhyphen"/>tion, as bitter as death, as dreadfull as hell it ſelf; Labour therefore for more grace, ſo more ſtrength to ſuffer all, and endure hardſhip, as the good ſoul<g ref="char:EOLhyphen"/>dier of Jeſus Chriſt. So that either ſi<g ref="char:EOLhyphen"/>lently with <hi>Aaron</hi> hold your peace: or with <hi>David</hi> religiouſly Language, <hi>It is the Lord, let him do as ſeemeth him good.</hi> The more grace the more ſtrength in all, againſt all. <hi>Ergo.</hi>
+               </p>
+               <p>The more grace the more comfort; <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>3</label> many that regard not to live conſcio<g ref="char:EOLhyphen"/>nably, yet are deſirous to ſpend their years in proſperity, and their daies in comfortable pleaſures; but as without grace little conſcience, ſo without true grace little true comfort; the more ſin in us, the more oppoſition, the more trouble, griefe, and fearefull horrour, to the appaling of ſpirit, and deading of heart. But let a ſoul reflect, and in ſim<g ref="char:EOLhyphen"/>plicity ſpeak, an increaſe of humility, faith, zeal, love, knowledge, grace, more comfort queſtionleſſe; not more rejoicing can a condemned Malefactor
+<pb n="14" facs="tcp:184281:12"/>
+receive by the tender of a Princes par<g ref="char:EOLhyphen"/>don, than a poor ſoul comfort, con<g ref="char:EOLhyphen"/>tent, in the truth and growth of grace; were it not for the grace of God in them, of all men Chriſtians were moſt miſerable: in the ſad apprehenſion of many and mighty corruptions within them, diverſe and great troubles upon them, and ſeverall ſcandalous reproa<g ref="char:EOLhyphen"/>ches againſt them: Whither ſhall the ſoul ſearch for comfort? To whom fly for ſolid conſolation? Can that honour that is fading, that eſtate that is flying, that name that is blaſting, that friend that is dying afford any? Alas, miſera<g ref="char:EOLhyphen"/>ble comforters all! nothing ſo much as the leaſt ſpark of divine grace; and if a little will cheriſh, what ſtrong con<g ref="char:EOLhyphen"/>ſolations will the growth added to the truth of grace afford? view and re<g ref="char:EOLhyphen"/>view the inſtances of Sacred Writ, and you ſhall find, where moſt grace, there moſt comfort; Therefore grow in grace,</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>4</label> This comfortable evidence, the ſin<g ref="char:EOLhyphen"/>cerity and truth of your grace, ſhew me your faith by works, a dead faith, no life in works? The ſoule is barren and unfruitfull: What is a body without a
+<pb n="15" facs="tcp:184281:12"/>
+ſoule? a poor body: What is a ſoule without grace? a poor ſoul: And what is grace without the growth thereof? uncomfortable grace: What advantage to have a name to live, and want life? What profit to have a forme, and void of the power of godlineſſe? This will upon good ground witneſſe to the world the truth of grace is in you, when they ſee your light ſhine, that they may glorifie your father in hea<g ref="char:EOLhyphen"/>ven; and your light which was at firſt as the dawning of the day, appea<g ref="char:EOLhyphen"/>ring as the Sun heightned to the top of the <hi>Zenith,</hi> fairly diſcovers the truth of grace in you to men: And to con<g ref="char:EOLhyphen"/>ſcience an evidentiall ſign of truth, when that which flames as a fire begins to live, to a never dying worm, tis quenched and craſhed by this: my con<g ref="char:EOLhyphen"/>ſcience bears me witneſſe, that I, though my beginning was ſmall, yet am encreaſed to a ſecond, a fift, a tenth talent: behold oh conſcience, did I make bones of Curſe, Lye, Oath, Sabbath, Goſpell, Ordinance, Hypo<g ref="char:EOLhyphen"/>criſie, Pride, Paſſion, ſecret Impiety, or open Enormity, in times paſt? And do I not, doſt not thou oh conſcience, oh
+<pb n="16" facs="tcp:184281:13"/>
+heart, hate and abhor every falſe way? Doſt not performe and delight to do what God pleaſeth, preſſing hard to be found in the righteouſneſſe of Jeſus Chriſt? Who in my Infancy hoped to be juſtified by duties, deſires, well-mea<g ref="char:EOLhyphen"/>ning, &amp;c. whence comes my love to God and his? Whence Patience, Zeal, Faith, more then in times paſt? Comes not my growth from my truth? oh ene<g ref="char:EOLhyphen"/>my be my Judge, ſpeak righteouſly. And to God alſo, when at the houre of Death, day of Judgement, ſummoned to appear, diſarmed of all hopes, &amp; helps, no more muſe or burroughs to ſave or ſhelter; This will witneſſe for thee, though thou haſt been a poor comfort<g ref="char:EOLhyphen"/>leſſe one, yet a true one; behold Lord, thy Talent hath gained, multiplied, tis encreaſed and grown, though little yet good evidence, the truth of grace is in thee: When as on the contrary, to man, to conſcience, to God, I have no more grace now then from my Infancy and day of youth; This comes off with ſin, ſhame, ſorrow, to the blackneſſe of de<g ref="char:EOLhyphen"/>ſpaire it ſelfe: Therefore being the growth of grace evidences the truth of grace, good reaſon we ſhould grow in grace, &amp;c.</p>
+               <p>
+                  <pb n="17" facs="tcp:184281:13"/>According to my uſuall method, I proceed to the Uſe.</p>
+               <p>Learn hence, The life of a Chriſti<g ref="char:EOLhyphen"/>an <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>1</label> muſt be a life of action;<note place="margin">Inſtru.</note> Tis ſhame<g ref="char:EOLhyphen"/>full impiety to practice (when once enlightned, graced from God with precious Truths, Promiſes, Privileges) nothing: Such a lazy devotion as brings in queſtion the truth of grace: Grace will make us faithfull husbands, wives, ſervants, as Chriſtians: If man cannot endure a Lurdan Lozell, God cannot endure a loitering idle Chriſtian, nor in reference to the things of this life, or that which is to come; I know not a Chriſtian as a man or woman but have or might have employment, or in works of neceſſity or charity: And as a Chriſtian man or woman hath to work out Salvation, a work hard enough, to ſo far from thinking them idle drones, that may ſpurre them to be as buſie as the Bee, and all little enough to give a good account at the laſt day: <hi>Jacobs</hi> Ladder is uſually applyed here, as Angels ſome aſcending, ſome de<g ref="char:EOLhyphen"/>ſcending, but none ſtanding ſtill, to in<g ref="char:EOLhyphen"/>timate ſo it muſt be in the Church of God; Either looking up to God, or in<g ref="char:EOLhyphen"/>to
+<pb n="18" facs="tcp:184281:14"/>
+the ſoul, that admire God for his Ma<g ref="char:EOLhyphen"/>jeſty, Glory, Mercy, or humble our ſelves for our unworthineſſe, ſin, and iniquity. Did not God ſet his <hi>Adam</hi> preſently after he had made him a li<g ref="char:EOLhyphen"/>ving ſoule into the Garden to dreſſe it, ſo to become a labouring ſoule; and why? But to tell the children of <hi>Adam</hi> that they muſt not be without motion, action; God gives no <hi>Superſedeas</hi> for a Chriſtian to be idle, or ſtanding ſtill: Nay, he checks with a <hi>Why ſtand you idle all the day long</hi>
+                  <note n="m" place="margin">Mat. 20.6.</note>? Tis here in the Text required that he be doing, thri<g ref="char:EOLhyphen"/>ving, growing, Grow in grace; This of the firſt Uſe.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>2,</label> If a Chriſtians duty be to grow in grace: Try we then, whither we have performed this duty or no. But how may I know? I anſwer.</p>
+               <p n="1">1. They are grown more and better in duties: Grace is like <hi>Ezekiels</hi> wa<g ref="char:EOLhyphen"/>ters, though little at firſt, diſcovers it ſelf by ſtreames to run, rivolets, rivers, to waters impaſſable: Or as fire, that encreaſes in light, heat, more, greater, ſo grace in growth makes a Chriſtian in his duties more frequent; whereas before he would court the Lord in a
+<pb n="19" facs="tcp:184281:14"/>
+morning, ſo bid him good morrow, or complement with a goodnight, he now begins to be more frequent, grace acts him to morning, evening, and when occaſion ſerves, at midnight as high-noon: at firſt ſeldome, ſince he is grown more frequent.</p>
+               <p n="2">2. They are more fervent, more zealous, if not, I could queſtion that truth as growth of grace; Though at firſt grace as fire, of which compara<g ref="char:EOLhyphen"/>tively we ſay, tis a cold fire; ſo a ſoul finds it ſelf, in the dutie of hearing, praying, receiving, cold devotion in all, chill, almoſt ſtiffe, but by that time encreaſed, grown, grown warme <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſeething boyling hot; the affections kindled to a flame, a zeale as hot as fire.</p>
+               <p n="3">3. More conſcionable, what in times paſt was done in cuſtome, formality, hypocriſie, education, ſelfe, is now ſteeld, from conſcience he doth it, and dare not but do it, and delight to do it alſo: He at firſt ſaw the obſerving the Ordinances, and Sabbaths, of God his duty, now grown beholds them his privilege, ſo that as in time paſt he acted them as a task, now he performes
+<pb n="20" facs="tcp:184281:15"/>
+them as his delight, and joy to think of his communion with the Lord: Now he makes conſcience and will not omit a duty, as not commit a ſin, he makes conſcience of all; ſo doth a Chriſtian that is grown in grace: diſ<g ref="char:EOLhyphen"/>cover it in his duties, being more fre<g ref="char:EOLhyphen"/>quent at them, fervent in them, and conſcionable of them: Try and enlarge the particulars in your meditations, I muſt haſten.</p>
+               <p n="2">2. The growth of grace diſcovers it ſelfe by the death and dwinging away of ſin, at firſt ſin lives, but when grace comes ſin pines, and graces growth is ſins decay; as the houſe of <hi>Saul</hi> weaker and weaker, and the houſe of <hi>David</hi> ſtronger and ſtronger: So grace and ſin in the ſoule. As tis in the body with nature and the humour: If the hu<g ref="char:EOLhyphen"/>mour prove predominant then nature decaies, and ſoon man is gathered to his Fathers; but when nature gets the upper hand by degrees the killing hu<g ref="char:EOLhyphen"/>mour leſſens, and abates to a perfect recovery; ſo that the bed-red one walkes ſtrongly and comfortably. This grace, like his bloud, runs through eve<g ref="char:EOLhyphen"/>ry veine, actuates in every faculty of
+<pb n="21" facs="tcp:184281:15"/>
+the ſoule, as the ſoule in the whole body; Now mortifying this, now cru<g ref="char:EOLhyphen"/>cifying that corruption, laying the axe of zeale, revenge, care, to the root, and ſo cuts down root and branch, he leaves not a hoofe behind, ſpares not the <hi>Da<g ref="char:EOLhyphen"/>lila,</hi> the darling, the ſweet bit under the tongue, or boſome ſin in any corner of his heart, nothing in his Judgment, Underſtanding, Will, Memory, Affe<g ref="char:EOLhyphen"/>ctions, but ſhall relate to grace; The Enemy thereof ſhall be brought and arraigned before Jeſus Chriſt, and ca<g ref="char:EOLhyphen"/>ſhiered for ever, his precious, gracious ſoule; he is grown and acts to the ut<g ref="char:EOLhyphen"/>moſt, as fire, heat, and water moiſten to the utmoſt, ſo grace, that dwinges ſin to decay and dye: The gallant <hi>Adonijah</hi> ſhall not be ſpared, the deli<g ref="char:EOLhyphen"/>cate <hi>Agag</hi> not connived at, nor the leaſt of his ſins (if ſin againſt God can be called little) but ſhall be examined, traduced, and gibbited before the God of <hi>Iſrael:</hi> He ſpies the inſide, he views the outſide, what graceleſſe thing is diſcovered, is diſcarded, he abſtains from, and abhors ſecret as open wic<g ref="char:EOLhyphen"/>kedneſſe: So that no ſin ſhall have a willing being in his ſoule; but he is
+<pb n="22" facs="tcp:184281:16"/>
+ſenſible, ſo ſenſible of their imperfecti<g ref="char:EOLhyphen"/>on, as a bone in throat, or mote in eye, never quiet till removed, uſing all means to recover the health of the ſoule into the ſtate of ſtrength, Oh try, which dwinge and decay grace or ſin. So ſecond triall.</p>
+               <p n="3">3. Grown Chriſtians more boldly, manifeſt the grace of God in them, confidently they dare to ſpeak and act upon the growth than they did upon the firſt truth of their grace; The Apo<g ref="char:EOLhyphen"/>ſtles would flie and deny Chriſt before they would ſuffer or die: But after the truth of their grace, faith, knowledge was ſtrengthened, then they feared not the Synods, Councels, of countermand<g ref="char:EOLhyphen"/>ing preaching Jeſus Chriſt, as you that are verſed in the Acts of the Apoſtles can atteſt. A ſoule at firſt is like <hi>Nico<g ref="char:EOLhyphen"/>demus,</hi> it loves and would faine be with Chriſt, but a great deale of feare<g ref="char:EOLhyphen"/>full ſin clouds the new inſpired grace, ſecretly it dare but appeare for feare of the Jews; I wave quotations for that I ſpeak to (or I am much mis-inform<g ref="char:EOLhyphen"/>ed and miſtaken) Scripture-ſearching Chriſtians: But grown as <hi>Daniel,</hi> &amp; the 3 Children, they are gloriouſly manife<g ref="char:EOLhyphen"/>ſting
+<pb n="23" facs="tcp:184281:16"/>
+their zeale for God, and none but God, though controled by Soveraignty itſelfe: As a child that hath life <hi>in ope<g ref="char:EOLhyphen"/>rari &amp; eſſe,</hi> goeth but by this ſupport, and that aſſiſtance, for but weak now, new going; When a few yeares over-paſt, a ſhame to hold by a Finger, Chaire, Stoole, &amp;c. but now ſtrength encreaſing hee goeth confidently by himſelfe: So a poore ſoule at firſt creeps, cannot go; but his grace ſtrengthened, renewed, he ventures <hi>in nomine Domini,</hi> as <hi>David</hi> againſt <hi>Go<g ref="char:EOLhyphen"/>liah</hi> and dreads not, when all Iſrael is ſtruck with a miſgiving doubt, if not Panick feare. A grown Chriſtian ma<g ref="char:EOLhyphen"/>nifeſts his grace by undanted profeſſi<g ref="char:EOLhyphen"/>on in the hardeſt of body-torturing per<g ref="char:EOLhyphen"/>ſecution, and middeſt of (precious name) diſgracefull ſlander: In a word, by what contradiction ſoever of men, oppoſition of the gates (the power and wiſdome) of hell the poore Chriſtians grace is aſſaulted with it diſcovers it ſelfe void of feares as offence, in the flames of a Sacred love to God, Chri<g ref="char:EOLhyphen"/>ſtian love to the Saints of God, in a ſteadfaſt reſolution to walk up to Co<g ref="char:EOLhyphen"/>venant and Goſpell Reformation, and
+<pb n="24" facs="tcp:184281:17"/>
+in a Chriſtian deportment of them<g ref="char:EOLhyphen"/>ſelves, with the exerciſe of a good conſcience before God and man: here I conceive is growth as truth of grace: Try, oh try if it be thus with thee or not. I muſt haſten, time bids a diſ<g ref="char:EOLhyphen"/>patch.</p>
+               <p n="4">4. They can truſt God with outward and inward eſtate alſo, ſometime in weakneſſe he feared one, ſometime the other; Now ſteere over both, knowing that God hath given the Pro<g ref="char:EOLhyphen"/>miſe to godlineſſe, of this and that life which is to come. No diſtruſtfull thoughts for things temporall; Chriſt hath commanded, and his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> war<g ref="char:EOLhyphen"/>rant for a growne Chriſtian,<note n="n" place="margin">Mat. 6.25.</note> and aſſured for things of eternity to the truth as growth of grace, that nor faint nor feare: by which well may the ſoul relye on the Lord for its outward and inward eſtate. <hi>Abraham</hi> the Father of the Faithfull ſometime doubted, but after<note n="o" place="margin">Rom. 4. from 16. to verſ. 22.</note> Try how this reflects on thy ſoule, by a patient, humble waiting, till God anſwer.</p>
+               <p n="5">5. Laſtly, they that are grown in grace, grow and endeavour to grow in the knowledge of Jeſus Chriſt more and
+<pb n="25" facs="tcp:184281:17"/>
+more in the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> thereof: truly to beleeve God and Chriſt, in God and Chriſt, and to acknowledge the Lord Jeſus, by a ſeparation from the goats, and communion with the ſheep of Chriſt: Not only notionally to know and underſtand more of the hi<g ref="char:EOLhyphen"/>ſtory of Chriſt, but practically to doe for Chriſt more then in times paſt; that we may read in converſation one ſan<g ref="char:EOLhyphen"/>ctified and ſtrengthened in the grace of the Lord; and experimentally, that God may have experience, and the world alſo, that their grace, is a grace and knowledge of and according to Jeſus Chriſt: making them more humble<note n="p" place="margin">Job 42.5, 6.</note> and more deſirous to know and find more, ſo the truly wiſe and knowing Chriſtian; not to diſplay the radiant beames of their vainglorious under<g ref="char:EOLhyphen"/>ſtanding, but to diſcover the riches of Gods free and infinitely full grace to their ſouls, in looking upon them when blind in underſtanding, and unſanctified in heart; after this they preſſe to know more of themſelves, and more of Chriſt, to the praiſe of the Lord their God for beſtowing as truth, ſo a growth in grace. Try, and by this comfortably
+<pb n="26" facs="tcp:184281:18"/>
+conceive growth of grace.</p>
+               <p n="3">3. Now after Triall the uſes follow, of terrour to ſome, comfort to others, exhortation to all. If not growne in grace, come in, come in, I have bitter things againſt thee, yet ſhall this Law condemne none before it heare him ſpeake: Ask conſcience then if growne in grace; whence bleating of ſheep, lowing of oxen? whence in the ſoule, or Family, or Congregation, neglect of duties, or if performed, reſting on du<g ref="char:EOLhyphen"/>ties? how many caſt the word of God behind their backs? prophane the Sab<g ref="char:EOLhyphen"/>bath, condemne the ſoule-raviſhing promiſes of the everlaſting Goſpell? whence is it men truſt to and reſt in their duties? as the hypocriticall Jews,<note n="q" place="margin">Iſa. 58.23.</note> riſing to too lofty an expoſtulation, in queſtioning the Deity it ſelfe, a non<g ref="char:EOLhyphen"/>timely anſwering, regarding their pray<g ref="char:EOLhyphen"/>ers and performances? how many as the Phariſees vainly gracing them<g ref="char:EOLhyphen"/>ſelves<note n="r" place="margin">Luk. 18.11, 12.</note>? A ſoule growne in grace, would nor make it an Idoll, nor a ſlight, yet how many of us thus guilty?</p>
+               <p n="2">2. The falling of (too many) from their firſt love, like that <hi>Epheſine</hi>
+                  <pb n="27" facs="tcp:184281:18"/>
+Church in the ſecond of the <hi>Revela<g ref="char:EOLhyphen"/>tion;</hi> and is not the love and zeale of many waxen cold in this day of affli<g ref="char:EOLhyphen"/>ction, in the winter of our adverſity? when if ever, God, Covenant, Church and Kingdome had need of champions, zealous for the glory of the one, the re<g ref="char:EOLhyphen"/>nowne of the other, the ſafety and ho<g ref="char:EOLhyphen"/>nour of all; Now, but woe, and alas, oh what cold, dead ſpirits, hearts, are we poſſeſſed withall? when at firſt zealous, ſince remiſſe, matter of humili<g ref="char:EOLhyphen"/>ation and feare: 'tis neither naturall, nor ſupernaturall, for either would make the nearer the center more life, vigor and activity: let conſcience ſpeak if thou didſt not in time paſt better affect Gods wayes, Worſhip, Sabbaths, Ordinances, Miniſters, People, then now: fear we may: guilty we are.</p>
+               <p n="3">3. The pride of thy grace ſpeaks the not growing of grace: and how many plume themſelves in this unhappy age, with the <hi>men-admiring</hi> vertue, when they put off the <hi>God-beſtowing</hi> grace? into what aſſemblies ſhall we enter? in what company ſhall we be? but God ſhall be robbed of his glory, by mans boaſting of his grace; Grace keeps a
+<pb n="28" facs="tcp:184281:19"/>
+ſoule low, and exalts the Lord, know<g ref="char:EOLhyphen"/>ing whatever received, received of God: the Apoſtle and the ſtrong Chri<g ref="char:EOLhyphen"/>ſtian, number not themſelves with ſuch as commend themſelves, and meaſure themſelves with themſelves, for they are not wiſe<note n="ſ" place="margin">2 Cor. 10.12.</note> the more grace the more humility, while men advance and exalt, ſo as boaſt of zeale, grace, <hi>John</hi>-like, &amp;c. it ſpeaks us not grown.</p>
+               <p n="4">4. Laſtly, the ſeldome ſearching of our hearts ſpeaks no growth of grace, if I caſt not up my account, I know not whither my receipts or disburſements be moſt, I feare a bad reckoning, in this the Lord be mercifull unto us, we know not the windings of our hearts, deſpe<g ref="char:EOLhyphen"/>rately wicked and deceitfull, we try not, ſearch not: how many (nay how few) Sermon after Sermon, Sabbath af<g ref="char:EOLhyphen"/>ter Sabbath, moneth after moneth, commune with their owne hearts, to ſee in what this or that grace is increa<g ref="char:EOLhyphen"/>ſed ſince the reception of ſo many mer<g ref="char:EOLhyphen"/>cies? When a man ſeldome looks into his heart, I cannot conceive how it ſhould be diſcovered he is growne in grace, but muſt paſſe ſentence: (I ſpeak to wiſe men) are they not blame<g ref="char:EOLhyphen"/>worthy?
+<pb n="29" facs="tcp:184281:19"/>
+And may I not?</p>
+               <p n="1">1. When the Lord hath graciouſly affoorded time and ſpace; it was a check ſevere; he gave her ſpace to re<g ref="char:EOLhyphen"/>pent, and ſhe repented not:<note n="t" place="margin">Rev. 2.21.</note> And may not the Lord ſay, many a day and yeare have I offered free grace ſtretch<g ref="char:EOLhyphen"/>ing out my hand all the day long, and ye deſpighted hitherto the ſpirit of grace? Goe graceleſſe ſoule into graceleſſe ſo<g ref="char:EOLhyphen"/>ciety; ſad ſentence.</p>
+               <p n="2">2. Yea, when in that ſpace cal'd and tendred all the means that infinite un<g ref="char:EOLhyphen"/>derſtanding conceiv'd conducible to the growth of grace; no pruning, dreſſing, nor watering wanting; <hi>Judge I pray betwixt me and my vineyard, what could I doe more?</hi> 'tis heavens gracious con<g ref="char:EOLhyphen"/>deſcending appeale: Oh England, what ſhall I doe unto you? Oh People, how ſhould I intreat you? your goodneſſe yet as a morning cloud, your grace ſo far from growing, as 'tis the early dew diſmiſt, diſpell'd: When a father thus by a child, or a Prince thus by a Tyrone, the doome of death muſt follow. A harveſt is ſet, and at due time the axe muſt be laid to the root of the ſoule, and the tree cut downe<note n="u" place="margin">Mat. 3.10.</note>: What in
+<pb n="30" facs="tcp:184281:20"/>
+Chriſt? at his Church? and Ordinance? of his profeſſion? and not fructifie, multiply, increaſe and grow? See<note n="w" place="margin">Joh. 15.2.</note> he takes away God, and God takes away the firme influence of his ſpirit, from the poſſeſſion of his inheritance, he takes away, and then the ſoule wi<g ref="char:EOLhyphen"/>thers, and withers, till fuell for everla<g ref="char:EOLhyphen"/>ſting burning. Oh diſmall: when man endued with ſuch a ſoul as an Angel of God, ſhould ſo undervalue it in the neglect of grace and ſleight of God, the God of grace, ſuch a grace, ſuch a God vilifyed: what can be expected leſſe then the height of calamity, and depth of miſery to be inflicted, while Gods juſtice, and Satans tyranny ſhall re<g ref="char:EOLhyphen"/>main? but hoping better things of you, and wiſhing better things to you, I wave the terrour, and paſſe to the uſe of comfort.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>4</label> To all ſuch as <hi>Grow in grace,</hi> Com<g ref="char:EOLhyphen"/>fort; for,</p>
+               <p n="1">1. Thou art more then a naturall man, then take comfort: wert in na<g ref="char:EOLhyphen"/>ture only, I could not line or letter of conſolation thus, but daub with un<g ref="char:EOLhyphen"/>tempered mortar; but intituled to, or inveſted with grace, true comfort in<g ref="char:EOLhyphen"/>deed.
+<pb n="31" facs="tcp:184281:20"/>
+When a Parent ſees a child out<g ref="char:EOLhyphen"/>run his extravagant courſes, to become a man, and a man of God in the world, is it not great comfort? ſo for a be<g ref="char:EOLhyphen"/>leeving husband or wife, to perceive the worke of grace in each other, joy to raviſhment. Nor can the Miniſter be ſilent in this, but when he beholds Jeſus Chriſt formed in his Congregati<g ref="char:EOLhyphen"/>on, he muſt rejoyce with joy unſpeak<g ref="char:EOLhyphen"/>able, &amp; full of glory, for his people being filled with grace; and is it not a joy for the Church of God nigh you, by you? ſo let it be to thy ſoule alſo: Thou art more then a naturall man.</p>
+               <p n="2">2. Art growne in grace? herein is comfort that more ſhall be given thee: to him, to her that hath ſhall bee given,<note n="x" place="margin">Mat. 25.26.</note> more given to you, more done for you, God himſelfe will purge you, that yee may bring forth more fruit<note n="y" place="margin">Joh. 15.2.</note>: the Lord ſeldome, never, meddles with a ſoule, but it fares the better, growes the faſter: A ſecret influentiall vertue diſtils it ſelfe to the flouriſhing in grace and duty, and per<g ref="char:EOLhyphen"/>fecting to every good worke; this talent doubled, thy grace bleſſed, that more and more fruitfull and abundant
+<pb n="32" facs="tcp:184281:21"/>
+in the worke of the Lord be com<g ref="char:EOLhyphen"/>forted.</p>
+               <p n="3">3. Ye can more boldly goe to the Throne of grace, the growne righteous man as bold as a Lion: ſo comfortably a weake new-borne babe cannot ap<g ref="char:EOLhyphen"/>proach before the preſence of a jea<g ref="char:EOLhyphen"/>lous God and conſuming fire, as one that with reſolved exerciſe of ſancti<g ref="char:EOLhyphen"/>fying grace, hath waded through the troubled waters of mortification, &amp;c. and landed at the haven of full aſſu<g ref="char:EOLhyphen"/>rance: Jeſus Chriſt being our High-prieſt warrants it, the Apoſtle inferres it,<note n="z" place="margin">Heb. 10.21, 22.</note> for he by his one oblation for ever hath perfected them that are ſan<g ref="char:EOLhyphen"/>ctified<note n="a" place="margin">Heb 10.14.</note>: He therefore exhorts and ſo comforts the Saints as<note n="b" place="margin">Heb. 4.15, 16.</note>, and may not that comfort?</p>
+               <p>
+                  <note place="margin">Compl.</note>But oh, I ſee other that younger, more illiterate, unlearned then I, have more grace and knowledge of Jeſus Chriſt then I; therefore I feare the truth, the growth of grace, and what can I take of comfort?</p>
+               <p>
+                  <note place="margin">Reſp.</note>And what if ſo? why O ſoul ſhouldſt thou be diſquieted? take heed of a cu<g ref="char:EOLhyphen"/>rious eye, when the hand of providence diſpoſes as pleaſes him, beware it diſ<g ref="char:EOLhyphen"/>pleaſe
+<pb n="33" facs="tcp:184281:21"/>
+not thee; leſt you murmure and ſuffer: it was none of <hi>Joſhua's</hi> vertues to exaſperate <hi>Moſes</hi> for the prophe<g ref="char:EOLhyphen"/>cying of <hi>Eldad</hi> and <hi>Medad</hi>
+                  <note n="c" place="margin">Num. 11.28, 29.</note>, but <hi>Moſes</hi> is for our imitation: And bleſſe ye the Lord, that he adds to the number of his Church, and you behold others to magnifie the name of Jeſus Chriſt. A grown Chriſtians eyes guſh out with rivers of teares, when men ſinne againſt God, and their hearts leap with joy at the converſion, ſalvation of others, ſeeing the Goſpell of Jeſus Chriſt in<g ref="char:EOLhyphen"/>larged. <hi>Goe ye and doe likewiſe:</hi> ye and they ſhall have eternall poſſeſſion, be not overwhelmed with ſorrow.</p>
+               <p n="2">2. The leſſe ye have, the leſſe to anſwer for, the Lord requires no more then he gives: if you have five talents, five more will content; if you have but two, two more will ſatisfie: The Lord is not ſevere, auſtere; if you have not an oxe or heifer, a goat, kid or lamb, nay a turtle Pigeon; God will not ex<g ref="char:EOLhyphen"/>tort, be but faithfull, fruitfull in thy lit<g ref="char:EOLhyphen"/>tle, and he will make thee ruler over much: God looks to the truth of thy graces, to the quality rather then the quantity; ſo that if but a mite, a cup of
+<pb n="34" facs="tcp:184281:22"/>
+cold water, accepted, rewarded, be therefore comforted.</p>
+               <p n="3">3. Thou that groweſt though but lit<g ref="char:EOLhyphen"/>tle and other more, thou ſhalt never want, thou ſhalt hold out; 'tis to the happineſſe of ſalvation, and why not to the hearts conſolation? thy grace is Gods grace, he a fountain, when thou beginneſt to be dry, know God can refreſh, renew: In the Prophets phraſe I end all; <hi>Thou ſhalt be as a Tree plan<g ref="char:EOLhyphen"/>ted by the waters, whoſe root ſpreads out by the river: thou ſhalt not ſee when heat commeth, but thy leafe ſhall be green, thou ſhalt not be carefull in the yeare of drought, neither ſhalt ceaſe from yeelding fruit</hi>
+                  <note n="d" place="margin">Jer. 17.8.</note>. Take this for thy comfort, and I am now diſmiſſing this Aſſembly.</p>
+               <p>Suffer but a word of exhortation:</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>5</label> Firſt, <hi>Grow, grow,</hi> thrive and proſper in grace and knowledge of God, let me crave leave to preſcribe meanes, to propound motives, and I have done.</p>
+               <p n="1">1. Exerciſe of grace, that little, that truth of grace you have; do we not direct, uſe legs and have legs, uſe me<g ref="char:EOLhyphen"/>mory and have memory? actions intend habits: Stirre up and exerciſe that grace
+<pb n="35" facs="tcp:184281:22"/>
+of God in you, and your morning, dawning, will appeare bright as the Sun.</p>
+               <p n="2">2. Unite to gracious company, joyn to the aſſemblies of the Saints, with<g ref="char:EOLhyphen"/>draw not from ſuch as ſpeake to edifi<g ref="char:EOLhyphen"/>cation, giving grace to the hearers; the tongues that are tipped with the language of Canaan, will advantage to enlightning, to greater heat, and further growth: ſit not in the ſeat of the wicked, that cooles; diſcourſe furthers the Schollars ſtudies; good counſell helps forward to heaven: 'tis ſad (be<g ref="char:EOLhyphen"/>cauſe oft too late) to ſay, oh that I had followed good counſell, of ſuch Mini<g ref="char:EOLhyphen"/>ſters, friends, parents, I had never come to this place of execution: leſt we re<g ref="char:EOLhyphen"/>pent too late, uſe the ſociety of the Saints.</p>
+               <p n="3">3. Beware of ſecret corruption; as fame and credit wil keep a natural man from open, ſcandalous, tranſgreſſion; let grace and piety keep a ſpirituall man from ſecret corruption; ſtrive and pray againſt it, as <hi>David</hi> in the nineteenth Pſalme. Duſt, coales, and ſuch traſh, in ſecret, will overthrow the ſtomacke, and make the wholſomeſt food, loath<g ref="char:EOLhyphen"/>ſome:
+<pb n="36" facs="tcp:184281:23"/>
+ſo will ſinne, if we harbour with delight a cloſe iniquity under our tongue, it will nauſeate all the ſaving truths of Jeſus Chriſt gloriouſly held out in his Goſpell, and hinder the growth of grace.</p>
+               <p>Laſtly, conſcionably uſe the Ordi<g ref="char:EOLhyphen"/>nances of God, doe not as many for cuſtome, formallity; but <hi>hoc age,</hi> doe it in the integrity and ſimplicity of con<g ref="char:EOLhyphen"/>ſcience; the Law and ſtatutes of God<note n="e" place="margin">Pſ. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9.7, 8.</note> are beneficiall, that which iſſues out of the Sanctuary increaſes<note n="f" place="margin">Ezek. 47.12.</note>, when pray, read, receive, exerciſe your ſelves conſcionably, and your benefit will be profitably diſcovered to all.</p>
+               <div type="motives">
+                  <head>Motives.</head>
+                  <p>
+                     <hi>Mot.</hi> 1. The more grace, the more exalt Chriſt, 'tis a ſoules burthen, I can<g ref="char:EOLhyphen"/>not live to honour Chriſt for all his merit, goodneſſe, truths, and mercies; labour then for more grace, ſo ſpeake more of his name, and ye will be in life, death, to magnifie Chriſt little lower then Angels in their praiſes to their Maker: grace brings you higher and higher to theſe Seraphicall ſpirits; ſo you will chaunt the perpetuall Halle<g ref="char:EOLhyphen"/>lujah's with the Quire of Heaven, of
+<pb n="37" facs="tcp:184281:23"/>
+whom Chriſt is to be praiſed: as of you to be honoured.</p>
+                  <p n="2">2. Grace makes the more eminent; grace and fame are ſaid to be compani<g ref="char:EOLhyphen"/>ons, as the righteous ſo the gracious is more excellent then his neighbour: the world cleares this truth when the moſt debauched wretch would not but ſeeme gracious; the ſtrumpet, luke<g ref="char:EOLhyphen"/>warme <hi>Laodicea:</hi> all outwardly as the Phariſees: yea the Devill, elſe why transformed into an Angell of Light, but that with more credit to act in the children of darkneſſe, and heires of light alſo; but grace with God and Chriſt, a name better then of ſonne or daughter.</p>
+                  <p n="3">3. Time may come need of more grace, theſe are the plundring times, and exerciſe the faith and patience of many a precious ſoule, though (bleſſed be God) we heare it only with our eares, and ſee it not with our eyes, nor feele it to our hearts; but a time may come: one grace fits not for every temptation, no more then one ſhooe for every foot or one garment for every backe: The Apoſtles harneſſe in his <hi>Panoply</hi>
+                     <note n="g" place="margin">Eph. 6. from 10. to 19.</note> that compleat: ſome<g ref="char:EOLhyphen"/>time
+<pb n="38" facs="tcp:184281:24"/>
+a Chriſtian hath need of this grace, ſometime of another, we know not which God will call us to exerciſe; leave not a hoofe behind, as in one, grow in all, and ſtrengthen every one, fearing and feeling the time bad to be worſe: be not unprovided, conſider the ſeaſon, and <hi>grow in grace.</hi>
+                  </p>
+                  <p n="4">4. This will keep you true and ſted<g ref="char:EOLhyphen"/>faſt to God, to Chriſt, and the principles of Religion, that ye waver not in a corklike ventoſitie, to the hazard of faith and a good conſcience: this will arme you againſt all deluſions, errours, ſinnes, feares; and keep you entire to Chriſt, till you come for ever to be with him, where is the Crowne of grace, glory; with which hee con<g ref="char:EOLhyphen"/>firme you here, and aſſure you here<g ref="char:EOLhyphen"/>after, for his owne name and glory ſake. Conſider what I have ſaid, and the good Lord grant you a true under<g ref="char:EOLhyphen"/>ſtanding in all things, that ye may grow in grace &amp; knowledge of Jeſus Chriſt. To whom be glory for ever and ever.</p>
+               </div>
+            </div>
+            <div type="treatise">
+               <pb n="39" facs="tcp:184281:24"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>EPHES. Chap. 1. ver. 7.</hi>
+                     </bibl>
+                     <p>In whom we have redemption, through his bloud, the forgiveneſſe of ſins, <hi>&amp;c.</hi>
+                     </p>
+                  </q>
+               </epigraph>
+               <p>
+                  <hi>PA<g ref="char:V">Ʋ</g>L</hi> by the will of God, ſepa<g ref="char:EOLhyphen"/>rated to the Goſpell for the Churches ſake of the Gentiles, renders the worke of his Mini<g ref="char:EOLhyphen"/>ſtry faithfull as to others, to this Church of <hi>Epheſus;</hi> which after his Apoſtolicall ſalute in the firſt and ſecond verſes, doth magnifie <hi>the God and Father of our Lord Jeſus Chriſt, who hath bleſſed us with all ſpirituall bleſſings in heavenly places in Chriſt,</hi> verſe the third. A<g ref="char:EOLhyphen"/>mongſt which precious excellencies, this in the Text for the conſolation of the faithfull in Chriſt, is little inferiour to life everlaſting, this being the trou<g ref="char:EOLhyphen"/>bleſome obſtacle to a beleeving ſoule till it apprehend Jeſus Chriſt, in whom
+<pb n="40" facs="tcp:184281:25"/>
+it <hi>hath redemption,</hi> &amp;c.</p>
+               <p>
+                  <note place="margin">Doct.</note>The Text contains this truth, <hi>fully to redeeme from ſinne, coſt no leſſe then the bloud of Jeſus Chriſt, or the bloud of the Saviour is the redemption of the Saints.</hi> That this is ſo, why this is ſo, and what uſe hereof, are the three things I ſhall burthen your memory and patience with at this time.</p>
+               <p>That it is ſo, appeares by the Text: 1. In whom, that is, in Chriſt, <hi>verſe</hi> 3. in whom elected, <hi>ver.</hi> 4. predeſtinated unto adoption, <hi>ver.</hi> 5. in whom we are accepted, <hi>ver.</hi> 6. <hi>In whom redemption,</hi> as in the Text: <hi>We,</hi> the Saints, &amp;c. faith<g ref="char:EOLhyphen"/>full, <hi>ver.</hi> 1. bleſſed with all ſpirituall bleſſings, <hi>ver.</hi> 3. Select <hi>Paul,</hi> elect <hi>Ephe<g ref="char:EOLhyphen"/>ſians</hi> in Chriſt, <hi>In whom we have re<g ref="char:EOLhyphen"/>demption,</hi> freedome, full plentifull free<g ref="char:EOLhyphen"/>dome, the word in the Originall having a Prepoſition added, ſpeaks the perfe<g ref="char:EOLhyphen"/>ction of the redemption: To take re<g ref="char:EOLhyphen"/>demption as in reference to the body or ſoule here, body and ſoule hereafter, no redemption but by Chriſt, <hi>in whom</hi> full <hi>redemption;</hi> Redemption is ſaid to be fourefold.</p>
+               <p>Firſt, by Manumiſſion, as Lords, their vaſſels freely diſcharging, ſo Chriſt by
+<pb n="41" facs="tcp:184281:25"/>
+his grace freely juſtifying.<note n="a" place="margin">Rom. 3.24</note>
+               </p>
+               <p>Secondly, by permutation or change, as in warres; ſo Chriſt himſelfe bare our ſinnes in his owne body on the Tree<note n="b" place="margin">1 Pet. 2.24.</note>; the wrath of the Father went downe in the Sonne to redeeme the Saints: he ſuffered in his body that we might be redeemed in our ſoules; ſo a redemption.</p>
+               <p>Thirdly, by violent ablation; ſo <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> rcſcued <hi>Lot;</hi> ſo Chriſt redeemed his, having ſpoiled Principallities and Powers; blotting out the handwriting of Ordinances that was againſt us, ta<g ref="char:EOLhyphen"/>king them out of the way,<note n="c" place="margin">Col. 2.14.</note> and through death deſtroyed him that had the power of death, delivering them, who through feare of death, were all their life-time ſubject to bondage.<note n="d" place="margin">Heb. 2.14, 15.</note>
+               </p>
+               <p>Fourthly, by price and ranſome; ſo ſlaves and captives are redeemed from the thraldome of cruell Turks, and the hands of barbarous enemies: Thus Chriſt redeemeth his alſo captived un<g ref="char:EOLhyphen"/>der captivity, yee are bought with a price<note n="e" place="margin">1 Cor. 6.10</note>, not with corruptible things of ſilver and gold, but with the precious bloud of Chriſt himſelfe, that immacu<g ref="char:EOLhyphen"/>late Lambe<note n="f" place="margin">1 Pet. 1.18, 19.</note>. <hi>In whom we have,</hi> &amp;c.
+<pb n="42" facs="tcp:184281:26"/>
+                  <hi>Through his bloud:</hi> that is, the ſhed<g ref="char:EOLhyphen"/>ding &amp; oblation of his bloud. As in the Law the bloud of buls and goats ſancti<g ref="char:EOLhyphen"/>fyed to the purifying of the fleſh: ſo Chriſt by the ſacrificing of his bloud obtained thorow ſanctification,<note n="g" place="margin">Heb 9.14.</note> and eternall redemption, verſe the tenth. <hi>In whom,</hi> &amp;c.</p>
+               <p>
+                  <hi>The forgiveneſſe of our ſinnes:</hi> That is, Remiſſion, or as the word ſignifies, retromiſſion, or ſending backe againe from the ſoule to the firſt Originall the Father of all ſinne: A full remiſſion from the defilement and deſtruction, from the guilt and curſe, from the do<g ref="char:EOLhyphen"/>minion and power; by his bloud, from the guilt of ſinne; and by his ſpirit, from the power: In a word, from all that re<g ref="char:EOLhyphen"/>lates to, or attends upon the blackneſſe and darkneſſe of ſinne. <hi>The forgiveneſſe of ſinnes:</hi> The forgiveneſſe, not only by the bloud of Chriſt have we <hi>re<g ref="char:EOLhyphen"/>demption</hi>
+                  <note n="h" place="margin">Col. 1.20.</note>, or <hi>ſanctification</hi>
+                  <note n="i" place="margin">Heb. 9.14.</note>, but <hi>remiſſion</hi> alſo, as in the Text; ſo<note n="k" place="margin">Col. 1.14.</note> in whom we have redemption by his bloud, even the forgiveneſſe of ſinnes. <hi>John</hi> in his Revelation<note n="l" place="margin">Rev. 1.5.</note> confeſſes that Chriſt waſhed us from our ſinnes by his bloud; and to fetch the record
+<pb n="43" facs="tcp:184281:26"/>
+(bearing witneſſe to this truth) as high as heaven<note n="m" place="margin">Rev. 5.9.</note> the foure and twenty Elders acknowledge, Thou wert ſlain, and haſt redeemed us to God by thy bloud, out of every kindred, tongue, people, and Nation. Agreeing to this, is that of<note n="n" place="margin">1 Joh. 1.7.</note>, and the bloud of Jeſus Chriſt his Sonne cleanſeth us from all ſinne. Hath a poore ſoule need to be healed? Chriſt is a Phyſitian to cure him; doth thy ſoule parch and burne within thee? Chriſt is a fountaine to refreſh thee; art thou laden with the unſupportable burthen of thy ſinnes? Chriſt is righteouſneſſe to eaſe thee; if thou feareſt the ſtroke of death, he hath for thy poore beleeving ſoule the gift of eternall life; and if thou walk mourn<g ref="char:EOLhyphen"/>fully apprehending damnation for ſinne, he hath <hi>redemption</hi> for thee <hi>from ſinne,</hi> as in the Text. The Reaſons follow.</p>
+               <p>Chriſt only acceptable to God, the <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>1</label> heavens are not cleane in his ſight, he chargeth his Angels with folly, the quire of Heaven and Saints in earth are not well-pleaſing in his ſight, di<g ref="char:EOLhyphen"/>ſtinct from Chriſt; he is the Son of his Love, he the Son of his complacency, of his delight, in whom only he is well-pleaſed
+<pb n="44" facs="tcp:184281:27"/>
+                  <note n="o" place="margin">Mat. 3 17.</note>, and in the verſe before my Text, he hath made us accepted in the beloved; all the oblations Legall, and offerings Ceremoniall, had a redolent ſavour in the pure noſthrils of the Al<g ref="char:EOLhyphen"/>mighty, as they ſtood in reference to Chriſt. Without God none could pleaſe God, ſaith <hi>Ambroſe;</hi> whatever is pre<g ref="char:EOLhyphen"/>ſented to the Father without the Son, is ſaid to be unprofitable, and unaccep<g ref="char:EOLhyphen"/>table; as the High-prieſt offered all in the time of the Law, ſo the Lord Jeſus preſents all in the time of the Goſpell, without him nothing is accepted: ther<g ref="char:EOLhyphen"/>fore of him the Saints have all, to, and of, redemption. This is the firſt Reaſon, the ſecond followes.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>2</label> He only able to ſatisfie divine ju<g ref="char:EOLhyphen"/>ſtice, thouſands of Rammes, ten thou<g ref="char:EOLhyphen"/>ſands of rivers of oyle unſatisfactory; to give the fruit of the body for the ſinne of the ſoule, and the firſt-borne for my tranſgreſſion<note n="p" place="margin">M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c 6.6.</note>, It will neither be pleaſing to God, nor ſatisfactory to divine juſtice; the leaprous perſon was to be cleanſed by the bloud of the little bird<note n="q" place="margin">Lev. 14.51.</note>, and the leaprous ſoule is to be purified and redeemed from all its ſinne and uncleanneſſe by the bloud of Jeſus
+<pb n="45" facs="tcp:184281:27"/>
+Chriſt, that bird of Paradiſe, the coele<g ref="char:EOLhyphen"/>ſtiall Pellican, that ſacrificed himſelfe to death to ſave his to everlaſting life: when ſinne was to be remitted, it was to be put upon another, none muſt ex<g ref="char:EOLhyphen"/>pect a ſatisfaction in or from himſelfe; the ſinnes of the people were to be put upon the Scape-Goat: Thus they were delivered<note n="r" place="margin">Lev. 16.</note>, to teach us under the Goſ<g ref="char:EOLhyphen"/>pell, our ſinnes muſt be put upon Chriſt to be the only ſatisfaction to Almighty juſtice.</p>
+               <p>Two things are required of ſuch as ſatisfie Gods juſtice.</p>
+               <p>Firſt, he that ſatisfies muſt be free from all ſinne: if any man under Chriſt, ſaith he have no ſinne, he deceives him<g ref="char:EOLhyphen"/>ſelfe, and the truth of God is not in him;<note place="margin">1 John 1.9.</note> Chriſt in every thing like us, ſinne only excepted: his enemies being Judges he hath done all things well; ſo he, he only free from ſinne, can ſatisfie Gods ju<g ref="char:EOLhyphen"/>ſtice.</p>
+               <p>Secondly, that which ſatisfies muſt be pure, only pure in the offering, and ſuch oblations, ſacrifices, poore mortals cannot tender to their God, there is iniquity in their holy things, they are unprofitable, and come ſhort of grace
+<pb n="46" facs="tcp:184281:28"/>
+now, and muſt of glory for ever, if the Lord be not freely gracious in accep<g ref="char:EOLhyphen"/>ting, as beſtowing: Oh the wants and weakneſſe in our hearing, praying, in our duties, graces, uncleane, uncleane, imperfect, imperfect in all, but Chriſt a pure and holy offering unto the Lord: hence in the Law, when the High-prieſt went for an atonement, he only entred into the <hi>Sanctum Sanctorum,</hi> &amp; in the Goſpell, Chriſt trode the wine-preſſe of his fathers wrath alone<note n="ſ" place="margin">Iſa. 63.3.</note>, and thats the ſecond reaſon.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>3</label> Thirdly, that the glory of our redemp<g ref="char:EOLhyphen"/>tion may redound to the praiſe of God in Jeſus Chriſt; whoſe is the worke, 'tis fit theirs ſhould be the honour: <hi>Hos feci, tulit alter honores,</hi> is inju<g ref="char:EOLhyphen"/>ſtice; rich mercy, full merit is the ground worke and foundation of all our excellency. The Saints good and com<g ref="char:EOLhyphen"/>fort ariſeth from the free grace of the Father, and the full merit of the Sonne, and why to man or Angell ſhould the glory be given? when Scriptures ſpeake any thing of this ſpirituall bleſ<g ref="char:EOLhyphen"/>ſing, redemption, or forgiveneſſe of ſins, there is uſually annexed a doxology or bleſſing, as<note n="t" place="margin">Rev. 1.5, 6 So Rev. 5.9, 12. Col. 1.12, 14. 1 Cor. 1.30, 31.</note> with this in the Text,
+<pb n="47" facs="tcp:184281:28"/>
+as appeares in the third verſe; and thus of the third Reaſon.</p>
+               <p>That the Type might correſpond <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>4</label> with the Antetype; the Law and the Goſpell might anſwer one the other: In the Law the bloud was ſprinkled round about the Altar, to intimate, that nothing is of worth but by the force of Chriſts bloud: and as without bloudſhedding no remiſſion<note n="a" place="margin">Heb. 9.22.</note>, ſo no forgiveneſſe of ſinne but by the bloud of Chriſt: herein is a large field, but I haſten to the Uſes.</p>
+               <p>Inſtruction;<note place="margin">Uſe inſtr.</note> 
+                  <hi>If the bloud of the Sa<g ref="char:EOLhyphen"/>viour be the redemption of the Saint,</hi> learne we firſt, what an unhappy and curſed thing ſinne is, the forgiveneſſe whereof coſt no leſſe then Chriſts dea<g ref="char:EOLhyphen"/>reſt hearts bloud, it deludes us to defile us, it defiles us to deſtroy us, that our poore (yet precious) ſoules ſhould pe<g ref="char:EOLhyphen"/>riſh for ever without remedy, but for Chriſt <hi>in whom we have,</hi> &amp;c. Sinne <hi>Dalilah</hi>-like, ſpeaks fairly, acts friendly, for her advantage; but when oppor<g ref="char:EOLhyphen"/>tunity ſerves, then ſhall <hi>Sampſon</hi> ſmart for it; <hi>Adam</hi> bemocks himſelfe to a being made immortall, and doomes his ſelfe, and poſterity as low as death
+<pb n="48" facs="tcp:184281:29"/>
+and deep as hell, When he had faire promiſes to be as God, high as heaven, lofty as Eternity; by eating the forbid<g ref="char:EOLhyphen"/>den fruit, fruit though pleaſant in the taſte, bitter in the bowels as everlaſting burning; curſed ſinne as a leaproſie and plague infects and overſpreads all de<g ref="char:EOLhyphen"/>grees, faculties, perſons, eſtates, ſouls, bodies, inſnaring millions to the eter<g ref="char:EOLhyphen"/>nall, infernall tortures of devouring Tophet, as impoſſible to avoid, as in<g ref="char:EOLhyphen"/>tolerable to endure, without the bloud of Jeſus Chriſt, <hi>in whom we,</hi> &amp;c. Oh that the Lord would enlighten our un<g ref="char:EOLhyphen"/>derſtandings to ſee ſinne in its naked<g ref="char:EOLhyphen"/>neſſe, then we would (as purity it ſelfe) hate it with a perfect hatred: Did we conſider aright that Chriſt is ſo long in ſorrow as we are in ſinne, would we thus tranſgreſſe? Unhappy Oath, curſe, ſecurity, unbeliefe, ſinne of what ſort or condition ſoever, crucifying the Lord of glory, unpardonable but by the al<g ref="char:EOLhyphen"/>ſufficient merit of Jeſus Chriſt. What meant in the Law an oblation of a He<g ref="char:EOLhyphen"/>goat for a ſin-offering? but to teach us that ſinne is of an odious ſent, and an ill ſavour in the noſthrils of the Lord: Oh curſed ſinne, when not all the Saints
+<pb n="49" facs="tcp:184281:29"/>
+on Earth, nor all the Seraphicall ſpirits in heaven can expiate that ſinne which notion called the leaſt: Oh that the children of men, and the Sons of God would apprehend the Lord ſpeaking to a ſoule, as once <hi>Leah</hi> to <hi>Jacob:</hi> I have hired thee with my ſonnes Mandrakes, thou muſt come unto me. So the Lord to our ſoules, ye are mine, you muſt come unto me by faith, love, obedience; I have bought thee with my Sonnes teears, ſufferings and bloud; precious ſoules, ſet your eſteeme on every ſinne, as is the redemption, and it will ſpeake you to remember how unhappy and curſed a thing ſinne is, when for the pardon thereof it coſt no leſſe then the unvaluable bloud of the Sonne of God, the Lord Jeſus Chriſt, <hi>in whom we,</hi> &amp;c.</p>
+               <p>Is the bloud of the Saviour the re<g ref="char:EOLhyphen"/>demption <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>2</label> of the Saints? learne hence how deare and precious in the ſight of Jeſus is the ſoule of the Saints: Oh the tender love of Chriſt to a poore Chri<g ref="char:EOLhyphen"/>ſtian; as the relation ſpeaks him, a friend, a brother, a Father, a Spouſe, a Creatour, each tearme ſpeaks him in<g ref="char:EOLhyphen"/>gaged to love: ſo his love beyond mea<g ref="char:EOLhyphen"/>ſure, ſo deare, tender, unparalell'd, to be
+<pb n="50" facs="tcp:184281:30"/>
+admired, not to be expreſſed; greater love then this can no man ſhew. What greater then this could God declare? his love engaged that piety be ſcour<g ref="char:EOLhyphen"/>ged, and impiety by his ſtripes healed; it was content wiſedome it ſelfe be derided, and folly paſſe unſcoffed; truth ſuffers, and falſhood triumphs; Juſtice is condemned, and unrighteouſneſſe eſcapes free away; mercy is afflicted for cruelty; life reſignes it ſelfe to death, to preſerve the damned from the ſting thereof: In a word, God dyeth once, that man might live for ever; by right propriety, he doth redeem the poor ſoul as his creature, by right of propinqui<g ref="char:EOLhyphen"/>ty, redeems man as his creature-Saint: he undertooke that which would have mouldred ten thouſands of men to duſt to have endured, and attomed the myri<g ref="char:EOLhyphen"/>ads of Angels to have ſuffered. Oh the depth, breadth, length, height of Chriſts love, ſpeaking to the Father in a loftier expreſſion then <hi>Paul</hi> to <hi>Philemon</hi> concerning <hi>Oneſimus,</hi> I beſeech thee for my ſonne <hi>Oneſimus,</hi> whom I have begotten in my bonds, formerly unpro<g ref="char:EOLhyphen"/>fitable to thee; I <hi>Paul</hi> have written it with my owne hand: Holy Father
+<pb n="51" facs="tcp:184281:30"/>
+I beſeech thee for this my poore ſoule, whom by my Goſpell I have begotten, to thee formerly unprofitable, unſervice<g ref="char:EOLhyphen"/>able, and yet unfruitfull enough, but let me obtaine all his ſinnes to be laid upon my ſhoulders; 'tis thy beloved Sonne, that Sonne in whom thou art well pleaſed, I have writ it, and ſealed it, with no leſſe then my precious bloud: Behold, love, love and admire! was not, was not <hi>Rebeckah's</hi> love great to <hi>Ja<g ref="char:EOLhyphen"/>cob?</hi> doe as I adviſe, the curſe be on me and the bleſſing on thee: ſo Jeſus Chriſt, Soule, follow my advice, doe as I bid, and all the bleſſings of thy Father be upon thee, and if any curſe, let it light on me, for <hi>in me</hi> thou ſhalt have <hi>redemption:</hi> Oh, ſee as to ſerve Chriſt for his love, and thy redemptions ſake, deare and tender, when his life is not ſpared, that thy ſinne may be pardoned, and ſoule ſaved in the day of the Lord. You ſee then how deare a Saint is to Chriſt; thus of the firſt Uſe.</p>
+               <p>Deale faithfully O ye beloved of the Lord,<note place="margin">
+                     <hi>2.</hi> 
+                     <g ref="char:V">Ʋ</g>ſe is of exam.</note> and examine whether or no you can ſay, in him we have redemption: <hi>David</hi> ſpeaks of the goings of God in his Sanctuary, the ſingers before and
+<pb n="52" facs="tcp:184281:31"/>
+the minſtrels follow after: O holy, O happy progreſſe; ſo may I behold the ſoule going to, and comming with par<g ref="char:EOLhyphen"/>don of ſinnes; try we firſt by what precedes and goes before, then ſee what followes after <hi>remiſſion of ſinnes,</hi> ſo may we apprehend terrour or comfort to a remitted or unforgiven ſoule: This I premiſe, the foregoings of a pardoned ſoule, are not to be looked on as cauſes, though conditions, or as kind of quali<g ref="char:EOLhyphen"/>fications that ſupport a ſoule to hope<g ref="char:EOLhyphen"/>full comfort.</p>
+               <p n="1">1. Try and examine whether or no you ſence your ſinnes deeply, I cannot inſtance in whom ſinne was pardoned comfortably, that was never ſenſed deeply; the experimentall Chriſtian knew once ſadly, as truly, it lay a load upon his ſoule, and a burthen upon his ſpirit, that nothing but a ſecret ſupport kept him from reſigning up infinite mercy: A load to a griefe, a griefe and load with a witneſſe, and can it be leſſe to thy ſoule when ſuch a diſhonour to thy God, A curſe to thy Chriſt, a grief to thy ſpirit, a ſadning to Angels, and a vexation to all the Saints of God? a deep ſence as that reported of Queen
+<pb n="53" facs="tcp:184281:31"/>
+                  <hi>Mary,</hi> were my heart unript, you ſhould find the loſſe of <hi>Callice</hi> there; ſo the ſoule, were my heart uncaſed, it would be knowne to men and Angels, and is knowne to the Lord that knowes all ſecrets; never any ſorrow like this, never any burthen to my ſpirits as this; my unbeliefe, my unprofitableneſſe, my deadneſſe, my unworthy walking to that high calling and rich mercy, to which I am called, and which I have received, none like my ſinne, a burthen too heavy for me to beare, If I have not a ſupply from my Chriſt, in whom I hope to have <hi>redemption:</hi> Try whe<g ref="char:EOLhyphen"/>ther ſuffering or ſinning moſt burthen thy ſoule, 'tis that which is deeply ſen<g ref="char:EOLhyphen"/>ſed, if hopefully to be pardoned.</p>
+               <p n="2">2. The ſoule before it comfortably can expect the forgiveneſſe of ſinne, feares dreadfully, to this dread and feare the poore ſoule muſt needs ſtep. When it ſenſeth ſinne deeply, apprehends it rightly, diſmay, terrour, muſt appale the ſpirit, and affright the heart; when the ſoule looks on the ſinnes many and mighty, that every ſinne is a crucifier of Chriſt, and not feare, and not be trou<g ref="char:EOLhyphen"/>bled, 'tis impoſſible: When <hi>David</hi> ap<g ref="char:EOLhyphen"/>prehended
+<pb n="54" facs="tcp:184281:32" rendition="simple:additions"/>
+his ſinne<note n="b" place="margin">Pſal. 38.3.</note> 
+                  <hi>There is no reſt in my bones becauſe of ſinne,</hi> ver. 6. <hi>I am troubled, I am bowed down greatly, I goe mourning all the day long feare and trembling</hi> make all my bones and every veine of my heart to ſhake: If appre<g ref="char:EOLhyphen"/>hending of judgement will make the quaffing <hi>Belteſhazzer</hi> ſhake and trem<g ref="char:EOLhyphen"/>ble, what muſt the deep apprehenſion of ſinne and judgement too? When the malefactor perceives the ſentence of death paſſed upon him, Oh what a ſhaking ſtupid trembling fals upon him? ſo a poore ſoule receiving the ſentence of death in himſelfe; oh what feare, what amazement, and horrour? unſpeakable; the apprehenſion of ſinne diſcovers the frownes of an everliving, and ever-gracious Father, this trou<g ref="char:EOLhyphen"/>bleth a ſoule to aſtoniſhment; the pro<g ref="char:EOLhyphen"/>miſe is, God will come and ſave you, the Lord will come with recompence and vengeance (oh ſweet) vengeance on thy ſinnes, recompence on thy poore deſires; but what goes before, to whom is this ſalvation engaged? to the fear<g ref="char:EOLhyphen"/>full heart<note n="c" place="margin">Iſa. 35.4.</note>, Try, haſt, doſt feare ſinnes curſe, heavens anger? hope thy Saviour is working a pardon for thee his Saint.</p>
+               <p>
+                  <pb n="55" facs="tcp:184281:32"/>Once more, if thy ſoule be pardoned, then it hath been throughly humbled, will not experience tell you, reaſon in<g ref="char:EOLhyphen"/>forme you, when a ſinne is deeply ſen<g ref="char:EOLhyphen"/>ſed, a ſoule is terribly afraid, and how can it then but be throughly humbled, how ſhould it leſſe? When the pro<g ref="char:EOLhyphen"/>miſes of the Lord are engaged to com<g ref="char:EOLhyphen"/>fort the broken, contrite, and humble ſoule, and the Lord of Promiſes inhabi<g ref="char:EOLhyphen"/>ting Eternity, inthrones himſelfe in ſuch a ſoule<note n="d" place="margin">Iſa. 57.15.</note>, when the day of expiation was, the ſoule was to be afflicted<note n="e" place="margin">Lev. 23.</note>, why but to hint as God was ready to ſhew himſelfe mercifull, ſo the people ought to ſhew themſelves humble. A childe when faulty, or ſervant guilty, expect no favour except they be ſub<g ref="char:EOLhyphen"/>miſſive: ſo a poore ſoule, little hope of mercy till humble. Repent, for the king<g ref="char:EOLhyphen"/>dome of heaven is at hand, that king<g ref="char:EOLhyphen"/>dome that affords the ſubduing of, and pardon for ſin to a poore penitent hum<g ref="char:EOLhyphen"/>ble ſoul: Try, haſt bin humbled for every ſinne, as any ſinne? haſt ſentenced thy ſelfe to hell? haſt been afraid to come before God? lying low in thy eyes, worth nothing but confuſion? haſt ag<g ref="char:EOLhyphen"/>gravated thy ſinne againſt ſuch a God,
+<pb n="56" facs="tcp:184281:33"/>
+ſuch a Father; faire hopes for a gracious pardon.</p>
+               <p>Laſtly, Try, haſt ſought, doſt ſeeke with all earneſtneſſe and intenſeneſſe of ſoule and ſpirit? making it the great requeſt, that the Lord vouchſafe pardon and forgiveneſſe to thy poore ſoule? When a man is in danger of the Kings wrath, will he not endeavour a compo<g ref="char:EOLhyphen"/>ſition? and when a poore ſoule ſees it ſelfe by ſinne, in danger of hell, will it not ſeeke the Lord while he may be found? and call upon him while he is neare? by and by the Lord will abun<g ref="char:EOLhyphen"/>dantly pardon: How earneſtly will a condemned malefactor ſue and cry, good my Lord, mercy, mercy my Lord I beſeech you for Chriſts ſake: even ſo the ſoule ſentenced to the gates of death, and chambers of hell, hearing the God of ſinners is a mercifull God, in all duties, upon all opportunities, ſeeks for <hi>redemption, the forgiveneſſe of their ſins,</hi> crying for Chriſts ſake to find grace; the ſoule knowes well that prayer breaks downe the banke of ſinne, and makes a ſluce for the ſtreames of di<g ref="char:EOLhyphen"/>vine pardon to flow amaine to a pray<g ref="char:EOLhyphen"/>ing ſoule. Pray if perhaps the thoughts
+<pb n="57" facs="tcp:184281:33"/>
+of the heart may be forgiven, was the advice of <hi>Simon Peter</hi> to <hi>Simon Ma<g ref="char:EOLhyphen"/>gus</hi>
+                  <note n="f" place="margin">Acts 8.22</note>; when a ſoule knowes it is bleſſed in heavens accompt, if the ſins be remitted<note n="g" place="margin">Pſa. 32.1.</note>, what can impead the ſoule from making out with ſuch ear<g ref="char:EOLhyphen"/>neſtneſſe that neither lets it ſelfe nor the Lord be quiet till a pardon be ſea<g ref="char:EOLhyphen"/>led, by this time I conceive the Lord Jeſus diſcovers himſelfe to the ſoule, the one, the only one <hi>in whom it hath redemption,</hi> &amp;c.</p>
+               <p>Theſe precedent foregoings for par<g ref="char:EOLhyphen"/>don, experience will atteſt ſure enough, lets heare the minſtrels which follow after.</p>
+               <p>Firſt, the ſoule accepts thankfully; who can expreſſe the gratitude? the gladdeſt tydings and joyfulleſt newes that could be related to a poore droop<g ref="char:EOLhyphen"/>ing Chriſtian, that all the day and night long crys out, oh my ſinnes; oh my ſins. How thankfull will a poor bedrid man be to his Phyſitian that is inſtrumentall to his inlargement? how thankfull a priſoner endungeoned for his free<g ref="char:EOLhyphen"/>dome? or a condemned perſon at the place and minute of execution to heare and ſee a pardon? And what thanks
+<pb n="58" facs="tcp:184281:34"/>
+unutterable to the Lord will a poore ſoule render? what huggings, and em<g ref="char:EOLhyphen"/>bracings? what ſpeakings and actings of thanks? till obtained; deep load, dreadfull feare, humble dejection, and earneſt ſeeking, now an anſwer of peace enjoyed, how thankfull? <hi>Hig<g ref="char:EOLhyphen"/>gaion Selah</hi> can beſt expreſſe though farre beneath the thanks of a ſoule <hi>re<g ref="char:EOLhyphen"/>deemed by the bloud of Chriſt.</hi> Try if thy ſoule hath gladly accepted, joyfully received this unſpeakable mercy, by the returne of ineffable ſoul-hearty thanks; canſt thou in ſome meaſure ſubſcribe to<note n="h" place="margin">Rev. 1.5.</note>, or to<note n="i" place="margin">Rev. 9.</note>, or this third verſe, to bleſſe God as for other, ſo for this his ſpiri<g ref="char:EOLhyphen"/>tuall bleſſing, redemption, forgiveneſſe of ſinnes? a comfortable ſigne. To pro<g ref="char:EOLhyphen"/>ceed.</p>
+               <p>Secondly, a ſoule pardoned will henceforth ſhun ſinne carefully; it well knowes there is forgiveneſſe with the Lord, that he may be feared; the childe once flamed or gaſht will feare the burning fire, and cutting knife long after; the priſoner coopt up to hard<g ref="char:EOLhyphen"/>ſhip and dungeon-ſtraights, releaſed, will be fearfull of debts and ſin againe: And ſhall not a ſoule long fetter'd by
+<pb n="59" facs="tcp:184281:34"/>
+the helliſh guilt and apprehenſion of ſinne, redeemed through the only worth of Chriſts all-meritorious bloud, dare to meddle with ſinne, the way to hell as hell it ſelfe? The pardoned ſoule knowes there is only one Phyſitian to afford forgiveneſſe, to attaine his care and cure, a worke and labour of higheſt difficulty: nor can the ſonne of man, or Daughter of Jeruſalem bee more watchfull over an unparalleld glaſſe, than the pardoned ſinner, over his ſoul, fearing if once broken, hard, if ever poſſible, to bee repaired. The appre<g ref="char:EOLhyphen"/>henſion of this made one of the Anci<g ref="char:EOLhyphen"/>ents to ſay, Till ſinne hath done as much for me as God, I will have no<g ref="char:EOLhyphen"/>thing to doe with the ſtoole of iniqui<g ref="char:EOLhyphen"/>ty. Try precious ſoule, canſt ſay, I have waſhed my feet, how ſhall I de<g ref="char:EOLhyphen"/>file them? gracious pardon hath caſt off the ragges of ſinne, what have I to doe any more with Idolls? ſhall ſuch a one as I flee? have I ſhed ſo ma<g ref="char:EOLhyphen"/>ny teares to the dimming of my eyes, to the breaking of my heart? have I beene oft hurried as low as everla<g ref="char:EOLhyphen"/>ſting burnings to obtaine a pardon
+<pb n="60" facs="tcp:184281:35"/>
+for my ſinne? and hath infinite good<g ref="char:EOLhyphen"/>neſſe enricht my ſoule in its forgive<g ref="char:EOLhyphen"/>neſſe? and ſhall it be in vaine? ſhall I againe returne with the Dogge to the vomit, and with the Swine to wal<g ref="char:EOLhyphen"/>low in wickedneſſe? God forbid: Ile ſhunne ſinne hereafter carefully; doſt thou ſo? deſireſt thou truely ſo? a hopefull ſigne.</p>
+               <p>Thirdly, a pardoned ſoule will live honourably: if once thou gaine Redemption through Chriſt, thou wilt live like a Saint on earth, yea a Citizen in heaven; yea thou wilt walke like the redeemed of the Lord; not as one impriſoned in a mierie Dungeon, but as one walking in a Paradiſe of <hi>Eden;</hi> now as the Pro<g ref="char:EOLhyphen"/>digall in a new Garment, a Veſture of Righteouſneſſe; not as the Brat of Hell, but as heavens Royall Off<g ref="char:EOLhyphen"/>ſpring; not with the menſtruous Cloathes of ſinfull <hi>Adam,</hi> but the Candid ſtole of Chriſts innocency, daily inveſted with his holy-day ap<g ref="char:EOLhyphen"/>parell: his converſation in heaven, his vaine thoughts diſlodged, his frothy words checked, his idle wayes
+<pb n="61" facs="tcp:184281:35"/>
+refrained, the whole man Saint-like, hee is bought with a price, hee will glorifie the Lord with body and ſoule, hee puts to his Seale, tis a ſinne with a ſhame and curſe to keep the Labourers hire<note n="k" place="margin">Deut. 24.15.</note>. A ſoule that ſees his Redemption in Chriſt, know<g ref="char:EOLhyphen"/>eth it coſt his precious bloud: ſhould hee live any longer to himſelfe, to his former ſinnes, hee eaſily under<g ref="char:EOLhyphen"/>ſtands hee detaines his ſoule and body from Chriſt, the purchaſe of Chriſt, hee reſolves therefore henceforth to know no thing, no perſon unrelate to Chriſt, hee hath obtained his par<g ref="char:EOLhyphen"/>don, his deportment ſhall be as Co<g ref="char:EOLhyphen"/>heire with Chriſt, and heire to God of eternall glory, hee will live ho<g ref="char:EOLhyphen"/>nourably. Try if you ſo live and breath, act and affect, that your converſation may be ſutable to your priviledge, and all your endeavours anſwerable to this Princely preroga<g ref="char:EOLhyphen"/>tive, the forgiveneſſe of ſinnes: Doeſt thou labour to exalt the Lord, and magnifie Jeſus Chriſt above ſin, crea<g ref="char:EOLhyphen"/>ture, ſelfe? comfortable ſignes, if not, <hi>e contra.</hi>
+               </p>
+               <p>
+                  <pb n="62" facs="tcp:184281:36"/>Fourthly, the ſoule pardoned walks more comfortably than ever: A man long time confined to bed, home, or priſon, ſet free, with what in<g ref="char:EOLhyphen"/>ward joy, ſatisfactory content, his ſoule is comforted, experience can beſt expreſſe; ſo a poore ſoule for<g ref="char:EOLhyphen"/>merly plunged in ghaſtly feares, and helliſh apprehenſions to dwell and live in everlaſting darkneſſe for want of pardon: Now the Lord by his Spirit ſealing as full, as free remiſſi<g ref="char:EOLhyphen"/>on, no ſtranger can intermeddle to relate his joy unſpeakable and full of glory, pardon and peace; remiſſion and conſolation like <hi>Aaron</hi> and <hi>Hur,</hi> hold up <hi>Moſes</hi> hands, ſupport the pardoned ſoule; <hi>Goe in peace, and be of good comfort, thy ſinnes are forgi<g ref="char:EOLhyphen"/>ven thee</hi> bee frequent expreſſions of holy Writ. When by pardon of my ſinne, my ſoule beholds it ſelfe once a farre of, now nigh by the bloud of Chriſt, how can I but rejoyce? the feares, ſorrow, trembling, hor<g ref="char:EOLhyphen"/>rour, becauſe my ſinnes were unpar<g ref="char:EOLhyphen"/>doned, diſpell'd, muſt needs create inward joyes unſpeakable, for that
+<pb n="63" facs="tcp:184281:36"/>
+mine iniquities are forgiven. Try what inward joy and conſolation in ſome meaſure, at ſome time, Gods Word affords from Chriſt, <hi>in whom thou haſt redemption.</hi> Thus for the tryall.</p>
+               <p>Thirdly,<note place="margin">3 <hi>Uſe for</hi> Reprehen<g ref="char:EOLhyphen"/>ſion.</note> this ſerves to reprove ſuch as cannot ſay, <hi>in him wee have redemption;</hi> hath not pardon beene tendred? free, full, long as the ſinne? the doome muſt bee thine, if no redemption by Chriſt, thou art a Captive to the power of thy luſt, and a bond ſlave to the curſe of thy ſinne; to an ingenuous ſpirit, it is miſery to bee a priſoner to a ſuperi<g ref="char:EOLhyphen"/>our, deep calamity to bee ſubject to an equall, but a ſlave to his drudge vexation high; little comfort left for the gallantry of braveſt ſpirits but this, they are enthralled by men, and in that little comfort too, but to bee enſlaved under Hels Darling, Heavens ſcorne, the ſoules everla<g ref="char:EOLhyphen"/>ſting ſhame and confuſion, ſinne, makes not onely the eare to tingle, heart to tremble, but dumbes, be<g ref="char:EOLhyphen"/>cauſe it doomes to that Lake which
+<pb n="64" facs="tcp:184281:37"/>
+burnes with torturing fire and ſul<g ref="char:EOLhyphen"/>phurous brimſtone; whether the pains of ſence, or loſſe be ſoreſt, needs no determination, either enough to fill a ſoul with the terror of black deſpaire, well conſider<note n="l" place="margin">Job 20.11.</note>, The thoughts of a reſurrection ſpeakes the ſoule glad to returne to duſt againe: But hoping better things of you (precious ſoules) I ſpare to reprove, and paſſe to the fourth Uſe.</p>
+               <p>
+                  <note place="margin">
+                     <hi>4.</hi> Uſe of Comfort.</note>To all you that can ſay in any mea<g ref="char:EOLhyphen"/>ſure, my Saviours bloud is my Re<g ref="char:EOLhyphen"/>demption, let your ſoules rejoyce, and all within you bleſſe his name: For,</p>
+               <p>Firſt, thou art bleſſed, as the ſweet Pſalmiſt<note n="m" place="margin">Pſa. 32.1.</note>, in this happy e<g ref="char:EOLhyphen"/>nough, happy in Gods account; what if deprived of earthly contents and enjoyments? yet thou haſt remiſſion, forgiveneſſe, thats worth a thouſand Worlds: I deny not (deare ſoule) but that many have more of bleſ<g ref="char:EOLhyphen"/>ſings without, but thou haſt that white ſtone, that new name<note n="n" place="margin">Rev. 2.17.</note> affor<g ref="char:EOLhyphen"/>ding ſuch a conſolation within as may fill thy ſoule with joy ineffable and full of glory.</p>
+               <p>
+                  <pb n="65" facs="tcp:184281:37"/>Secondly, by this aſſured of Sal<g ref="char:EOLhyphen"/>vation; it is the ſouls trouble, the uncertainty of the reward, ſo that it workes it out with little below feare and trembling; the forgiveneſſe of thy ſinnes diſtills with a ſweet influence enlightning to ſalvation: as by the heat I know the fire burnes, by the light I know the Sunne ſhines, by the pardon of my ſinne, I am confident of the ſalvation of my ſoule.<note n="o" place="margin">Luk. 1.77</note>
+               </p>
+               <p>Thirdly, in this comfort, whatſoe<g ref="char:EOLhyphen"/>ver God ſends or ſuffers, tis in mercy; no affront from beneath, no deſerti<g ref="char:EOLhyphen"/>on from above, no affliction without, no temptation within, but proceeds from a Father as well as from a God: <hi>Jonathans</hi> Arrowes were ſhot for <hi>David,</hi> as at <hi>David;</hi> the tender Mother gives with a bitter Pill, cloſe<g ref="char:EOLhyphen"/>ly Sugar to ſweeten: ſo the Lord, though hee ſometimes anſwers with terrible things, yet hee is the God of ſalvation, take comfort there<g ref="char:EOLhyphen"/>fore.</p>
+               <p>Fourthly, God will ſanctifie thee as well as juſtifie thee, thou ſhalt be partaker of his Spirit as well as
+<pb n="66" facs="tcp:184281:38"/>
+of his bloud: I know thy ſoule long<g ref="char:EOLhyphen"/>eth to bee ſanctified, it ſhall bee, bee comforted, where God pardons hee purges, ſo runnes the Covenant<note n="p" place="margin">Ezek. 36.25, 26, 27.</note> ſeconded by the Apoſtle <hi>John</hi>
+                  <note n="q" place="margin">1 Joh. 1.9. <hi>Object.</hi>
+                  </note>. But here a ſoule is ready to complaine, there is nothing in me from me, that I ſhould hope of the Lords pardon to me.</p>
+               <p>
+                  <note place="margin">Anſw.</note>To this I Anſwer: Haſt thou not as much as God looks for? what had the Infant, the Churches Hierogli<g ref="char:EOLhyphen"/>phicke<note n="r" place="margin">Ezek. 16.</note> but bloud in it, polluted, defiled? yet God pittied: What had the Prodigall? yet his Father freely pardoned, and joyfully entertained him. Feare not then, for Chriſts ſake, the Lord will doe more than this, in him there is Righteouſneſſe, Grace, Perfection, Merit enough to redeem from Hell, the nethermoſt Hell, to ſave, to ſave to the higheſt Hea<g ref="char:EOLhyphen"/>vens: Hath not he offered himſelfe a Sacrifice for ſinne for ever? and will not he for ever perfect them that are ſanctified? and will the Lord remember their ſinnes and iniquities any more<note n="ſ" place="margin">Heb. 10.12. &amp; 17.</note>? Be comforted there<g ref="char:EOLhyphen"/>fore,
+<pb n="67" facs="tcp:184281:38"/>
+and if this will not ſerve, let God himſelfe anſwer ſuch an obje<g ref="char:EOLhyphen"/>ction made<note n="t" place="margin">Iſay 43.22, 23, 24. <hi>Exhort.</hi>
+                  </note>. I haſten to the laſt Uſe, Labour to ſubſcribe to this truth, you that cannot ſay you have redemption through his bloud.</p>
+               <div type="means">
+                  <head>Meanes.</head>
+                  <p>Firſt, labour for a forgiving heart, and a remitting ſpirit; doe as you would bee done unto is the Royall Law<note n="u" place="margin">Mat. 6.14</note>, with that of<note n="w" place="margin">Mark 11.25, 26.</note>.</p>
+                  <p>Secondly, labour for a truely humb<g ref="char:EOLhyphen"/>led ſpirit, a throughly humbled ſoul, ſo that Promiſe ſealed to thee, in the twelfth of <hi>Zacharie,</hi> the latter end and beginning of the thirteenth Chap<g ref="char:EOLhyphen"/>ter.</p>
+                  <p>Thirdly, believe in Chriſt, enter<g ref="char:EOLhyphen"/>taine him in all his Truths, his Pro<g ref="char:EOLhyphen"/>miſes, exerciſe thy faith in ſpight of oppoſition, and<note n="x" place="margin">Acts 10.43.</note>. A faire in<g ref="char:EOLhyphen"/>ſtance<note n="y" place="margin">Mark 2.4, 5.</note>.</p>
+               </div>
+               <div type="motives">
+                  <head>Motives.</head>
+                  <p>God will then bee one with you; <label type="milestone">
+                        <seg type="milestoneunit">Mot. </seg>1</label>
+                     <pb n="68" facs="tcp:184281:39"/>
+the firſt <hi>Adam</hi> by his ſinne loſt you, the ſecond <hi>Adam</hi> by his merit regai<g ref="char:EOLhyphen"/>ned you, no more a ſtranger from God, or the Covenant of grace, his Royall Attributes are martialled while you are in the valley of teares to doe you good.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Mot. </seg>2</label> This will make you paſſe through all difficulties whatſoever with com<g ref="char:EOLhyphen"/>fort; now thou feareſt, and art ama<g ref="char:EOLhyphen"/>zed, loath to hazard this, or ven<g ref="char:EOLhyphen"/>tare that for God or his Goſpell; and why? I have not my ſinnes pardo<g ref="char:EOLhyphen"/>ned: were I ſure of this, went I through a valley of teares, and ſha<g ref="char:EOLhyphen"/>dow of death, I would feare no e<g ref="char:EOLhyphen"/>vill, but with <hi>Paul</hi>
+                     <note n="z" place="margin">Rom. 8.32</note> challenge all perſons and things; that thus you may remaine faithfull, and with com<g ref="char:EOLhyphen"/>fort wade through a ſea of bloud, la<g ref="char:EOLhyphen"/>bour for Redemption.</p>
+                  <p>Laſtly, yee that can ſay with <hi>Paul</hi> in the Text, <hi>We have redemp<g ref="char:EOLhyphen"/>tion, &amp;c.</hi> Love him, live to him, and to none but him; let your Duties, Mercies, Graces, Lives, bee praiſe to Jeſus Chriſt, you need not queſtion Gods love; the favour of the royall
+<pb n="69" facs="tcp:184281:39"/>
+breaſt is knowne by Mercy, by Remiſ<g ref="char:EOLhyphen"/>ſion: hath the Lord delivered mee from the power of darkneſſe, and tranſlated mee to the Kingdome of his deare Sonne? and ſhall not his free grace bee magnified? Praiſe the Lord O my ſoule, and let all that is within mee bleſſe his holy Name for his <hi>Chriſt, by whoſe bloud I have re<g ref="char:EOLhyphen"/>demption, the forgiveneſſe of my ſins,</hi> and let all that wiſh well to my ſoule, for my ſoule, ſay, bleſſed be the Lord for ever and ever. Amen.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184281:40"/>
+            <pb facs="tcp:184281:40"/>
+         </div>
+      </body>
+   </text>
+</TEI>
